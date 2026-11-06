@@ -24,7 +24,7 @@
     <div class="window" id="win">
         <div class="title-bar" id="handle"><span>💻 C:\SHIROFUJI_OS\MONITOR.EXE</span><div class="title-btn" onclick="fechar()">X</div></div>
         <div class="content" id="log">
-            <div>[SHIROFUJI MONITOR OS - V1.4.7]</div>
+            <div>[SHIROFUJI MONITOR OS - V1.5.0]</div>
             <div>DIRETRIZ DE PROTEÇÃO GEOPOLÍTICA DO GRÊMIO SUPREMO</div>
             <div>--------------------------------------------------------</div>
             <div style="color:#ffa000;">DIGITE SEU NOME DE USUÁRIO PARA INICIAR A SESSÃO RÚNICA:</div><br>
@@ -35,64 +35,81 @@
 <script>
     const USER = "Belluafurens"; 
     const REPO = "sistema-shirofuji";
-    // URL CORRIGIDA: Aponta diretamente para o servidor de arquivos brutos do GitHub
     const BASE_URL = "https://githubusercontent.com" + USER + "/" + REPO + "/main/";
     
-    let dir = "LOGIN", cap = null, DB_ALUNOS = {}, mortos =, nickUsuario = "user";
-    const PASTAS = { "C:\\": {p: ["BIN", "USER", "LOGS"], f: ["LEIA_ME.TXT"]}, "C:\\BIN": {p:, f: ["MONITOR.EXE"]}, "C:\\USER": {p:, f: ["NOTAS.LOG"]}, "C:\\LOGS": {p:, f: ["BAIXAS.DAT"]} };
+    let dir = "LOGIN", cap = null, DB_ALUNOS = new Object(), mortos = new Array(), nickUsuario = "user";
+    const PASTAS = { "C:\\": {p: ["BIN", "USER", "LOGS"], f: ["LEIA_ME.TXT"]}, "C:\\BIN": {p: new Array(), f: ["MONITOR.EXE"]}, "C:\\USER": {p: new Array(), f: ["NOTAS.LOG"]}, "C:\\LOGS": {p: new Array(), f: ["BAIXAS.DAT"]} };
     const TXT = { "LEIA_ME.TXT": "BEM-VINDO AO CONSOLE RÚNICO.\nUse 'LISTAR' para ver herois ativos ou 'FICHA [Nº]' para investigar.", "NOTAS.LOG": "[REGISTRO OCULTO - LIVIA MATSUI]\nHá um Árbitro na floresta monitorando as regras do Pacto das Sombras. Cuidado." };
 
-    function print(t, c = "#00ff00") { const log = document.getElementById("log"), div = document.createElement("div"); div.style.color = c; div.innerHTML = t.replace(/\n/g, "<br>"); log.insertBefore(div, log.lastElementChild); log.scrollTop = log.scrollHeight; }
-    function abrir() { document.getElementById("win").style.display = "flex"; }
-    function fechar() { document.getElementById("win").style.display = "none"; }
+    function print(t, c = "#00ff00") {
+        const log = document.getElementById("log"), div = document.createElement("div");
+        div.style.color = c; div.innerHTML = t.replace(/\n/g, "<br>"); log.insertBefore(div, log.lastElementChild); log.scrollTop = log.scrollHeight;
+    }
 
     async function carregarCap(numCap) {
         try {
             print(" Baixando dados unificados do colégio...", "#ffa000");
             const rA = await fetch(BASE_URL + "alunos.txt"); if(!rA.ok) throw new Error();
-            const tA = await rA.text(); DB_ALUNOS = {};
+            const tA = await rA.text(); DB_ALUNOS = new Object();
             tA.split("\n").forEach(l => {
-                if(!l.trim() || !l.includes("|")) return; const p = l.split("|"); const id = parseInt(p.replace("Nº","").trim());
-                if(!isNaN(id)) DB_ALUNOS[id] = { nome: p.trim(), classe: p.trim(), turma: p.trim() };
+                if(!l.trim() || !l.includes("|")) return; 
+                const partes = l.split("|"); 
+                const id = parseInt(partes[0].replace("Nº","").trim());
+                if(!isNaN(id)) DB_ALUNOS[id] = { nome: partes[1].trim(), classe: partes[2].trim(), turma: partes[3].trim() };
             });
             print(" Sincronizando óbitos do Capítulo " + numCap + "...", "#ffa000");
             const rO = await fetch(BASE_URL + "obitos_cap" + numCap + ".txt");
-            if (rO.ok) { const tO = await rO.text(); mortos = tO.split("\n").map(x => parseInt(x.trim())).filter(x => !isNaN(x)); } else { mortos =; }
+            if (rO.ok) { 
+                const tO = await rO.text(); 
+                mortos = tO.split("\n").map(x => parseInt(x.trim())).filter(x => !isNaN(x)); 
+            } else { mortos = new Array(); }
             TXT["BAIXAS.DAT"] = mortos.length === 0 ? "Nenhum óbito registrado." : "IDs afetados:\n" + mortos.join("\n");
-            cap = numCap; dir = "C:\\"; document.getElementById("p-text").innerText = `${nickUsuario}@SHIROFUJI_OS:C:\\>`;
+            cap = numCap; dir = "C:\\"; document.getElementById("p-text").innerText = nickUsuario + "@SHIROFUJI_OS:C:\\>";
             print("\n[+] CONEXÃO OK. Sincronizado no Capítulo " + cap + ".", "#00ff00");
-        } catch (e) { print("[-] ERRO CRÍTICO: Falha ao baixar arquivos do GitHub.", "#ff0000"); }
+        } catch (e) { print("[-] ERRO CRÍTICO: Falha ao carregar arquivos do GitHub.", "#ff0000"); }
     }
 
     async function cmd(e) {
         if (e.key !== 'Enter') return;
         const input = document.getElementById("in"), v = input.value.trim(); input.value = ""; if (!v) return;
-        print(`${dir}> ${v}`, "#fff");
+        print(dir + "> " + v, "#fff");
+        
         if (dir === "LOGIN") {
-            let n = v.trim(); if (n.toUpperCase() === "CRISANT" || n.toUpperCase() === "CRISANT HAWTHORNE") { nickUsuario = "Arbitro_Hawthorne"; print("\n[!!!] ALERTA DE SISTEMA: ANOMALIA JURÍDICA DETECTADA\nO Pacto das Sombras reconhece o portador do Manto Azul-Petróleo.\n", "#ffff00"); } 
-            else { nickUsuario = n.replace(/[^a-zA-Z0-9]/g, "") || "user"; }
+            let n = v.trim();
+            if (n.toUpperCase() === "CRISANT" || n.toUpperCase() === "CRISANT HAWTHORNE") {
+                nickUsuario = "Arbitro_Hawthorne"; print("\n[!!!] ALERTA DE SISTEMA: ANOMALIA JURÍDICA DETECTADA\nO Pacto das Sombras reconhece o portador do Manto Azul-Petróleo.\n", "#ffff00");
+            } else { nickUsuario = n.replace(/[^a-zA-Z0-9]/g, "") || "user"; }
             dir = "RÚNE_KEY"; document.getElementById("p-text").innerText = "INIT_CAP>";
-            print(`Usuário definido como: ${nickUsuario}`, "#00ff00"); print("Insira o comando INIT_[Nº_DO_CAP] para sincronizar.", "#ffa000"); return;
+            print("Usuário definido como: " + nickUsuario, "#00ff00"); print("Insira o comando INIT_[Nº_DO_CAP] para sincronizar.", "#ffa000"); return;
         }
+
         if (v.toUpperCase() === "CLS") { const log = document.getElementById("log"); while (log.childNodes.length > 4) { log.removeChild(log.firstChild); } return; }
+        
         if (!cap) {
             if (v.toUpperCase().startsWith("INIT_")) { 
-                let partesV = v.split("_"); let n = parseInt(partesV);
+                let partesV = v.split("_");
+                let n = parseInt(partesV[1]); 
                 if (!isNaN(n) && n >= 1) await carregarCap(n); else print("[-] ERRO: Use INIT_[Nº].", "#ff0000"); 
-            } else { print("[-] ACESSO NEGADO. Forneça o capítulo rúnico para continuar.", "#ff0000"); } return;
+            } else { print("[-] ACESSO NEGADO.", "#ff0000"); } return;
         }
-        const p = v.split(" "), acao = p.toUpperCase(), arg = p ? p.toUpperCase() : "";
-        if (acao === "HELP") { print("\nDIR          - Lista arquivos\nCD [pasta]   - Muda pasta\nTYPE [arq]   - Lê texto\nBAIXAS       - Lista IDs mortos\nLISTAR       - Lista heróis vivos\nFICHA [Nº]   - Prontuário\nCLS          - Limpa tela\nRESET        - Bloqueia sistema", "#ffa000"); }
-        else if (acao === "DIR") { if (PASTAS[dir]) { PASTAS[dir].p.forEach(x => print(`<DIR>    ${x}`, "#fff000")); PASTAS[dir].f.forEach(x => print(`         ${x}`, "#00aaff")); } }
-        else if (acao === "CD") { if (arg === "..") { if (dir !== "C:\\") { dir = "C:\\"; document.getElementById("p-text").innerText = `${nickUsuario}@SHIROFUJI_OS:C:\\>`; } } else { let n = dir === "C:\\" ? `C:\\${arg}` : `${dir}\\${arg}`; if (PASTAS[n]) { dir = n; document.getElementById("p-text").innerText = `${nickUsuario}@SHIROFUJI_OS:${dir}>`; } else { print("[-] Pasta não existe.", "#ff0000"); } } }
-        else if (acao === "TYPE") { if (TXT[arg]) print(`\nExibindo: ${arg}\n-------------------\n${TXT[arg]}\n`, "#00aaff"); else print("[-] Arquivo inválido.", "#ff0000"); }
-        else if (acao === "LISTAR") { for (let id in DB_ALUNOS) { if (!mortos.includes(parseInt(id))) print(`Nº ${String(id).padStart(3,'0')} | ${DB_ALUNOS[id].nome} [${DB_ALUNOS[id].turma}]`); } }
-        else if (acao === "BAIXAS") { print("\n!!! ÓBITOS NO CAPÍTULO " + cap + " !!!", "#ff0000"); if (mortos.length === 0) print("Nenhum óbito registrado.", "#00ff00"); else mortos.forEach(id => { if(DB_ALUNOS[id]) print(`[-] Nº ${String(id).padStart(3,'0')} | ${DB_ALUNOS[id].nome} (${DB_ALUNOS[id].turma})`, "#ff0000"); }); }
-        else if (acao === "FICHA") { let id = parseInt(p); if (DB_ALUNOS[id]) { print(`\nNome: ${DB_ALUNOS[id].nome} | Turma: ${DB_ALUNOS[id].turma} | Classe: ${DB_ALUNOS[id].classe}`); if (mortos.includes(id)) print("STATUS: [ SINAL VITAL INTERROMPIDO ]", "#ff0000"); else print("STATUS: [ OPERANTE ]", "#00ff00"); } else print("[-] ID inválido.", "#ff0000"); }
-        else if (acao === "RESET") { cap = null; mortos =; DB_ALUNOS = {}; dir = "LOGIN"; document.getElementById("p-text").innerText = "LOGIN>"; print("\n[!] Sessão encerrada.", "#ffa000"); }
+
+        const p = v.split(" "), acao = p[0].toUpperCase(), arg = p[1] ? p[1].toUpperCase() : "";
+        if (acao === "HELP") { print("\nDIR          - Lista arquivos\nCD [pasta]   - Muda pasta\nTYPE [arq]   - Lê texto (Ex: TYPE LEIA_ME.TXT)\nBAIXAS       - Lista IDs mortos do cap\nLISTAR       - Lista heróis vivos\nFICHA [Nº]   - Prontuário do ID\nCLS          - Limpa a tela\nRESET        - Bloqueia sistema", "#ffa000"); }
+        else if (acao === "DIR") { if (PASTAS[dir]) { PASTAS[dir].p.forEach(x => print("<DIR>    " + x, "#fff000")); PASTAS[dir].f.forEach(x => print("         " + x, "#00aaff")); } }
+        else if (acao === "CD") {
+            if (arg === "..") { if (dir !== "C:\\") { dir = "C:\\"; document.getElementById("p-text").innerText = nickUsuario + "@SHIROFUJI_OS:C:\\>"; } }
+            else { let n = dir === "C:\\" ? "C:\\" + arg : dir + "\\" + arg; if (PASTAS[n]) { dir = n; document.getElementById("p-text").innerText = nickUsuario + "@SHIROFUJI_OS:" + dir + ">"; } else { print("[-] Pasta não existe.", "#ff0000"); } }
+        }
+        else if (acao === "TYPE") { if (TXT[arg]) print("\nExibindo: " + arg + "\n-------------------\n" + TXT[arg] + "\n", "#00aaff"); else print("[-] Arquivo inválido.", "#ff0000"); }
+        else if (acao === "LISTAR") { for (let id in DB_ALUNOS) { if (!mortos.includes(parseInt(id))) print("Nº " + String(id).padStart(3,'0') + " | " + DB_ALUNOS[id].nome + " [" + DB_ALUNOS[id].turma + "]"); } }
+        else if (acao === "BAIXAS") { print("\n!!! ÓBITOS NO CAPÍTULO " + cap + " !!!", "#ff0000"); if (mortos.length === 0) print("Nenhum óbito registrado.", "#00ff00"); else mortos.forEach(id => { if(DB_ALUNOS[id]) print("[-] Nº " + String(id).padStart(3,'0') + " | " + DB_ALUNOS[id].nome + " (" + DB_ALUNOS[id].turma + ")", "#ff0000"); }); }
+        else if (acao === "FICHA") {
+            let id = parseInt(p[1]); if (DB_ALUNOS[id]) { print("\nNome: " + DB_ALUNOS[id].nome + " | Turma: " + DB_ALUNOS[id].turma + " | Classe: " + DB_ALUNOS[id].classe); if (mortos.includes(id)) print("STATUS: [ SINAL VITAL INTERROMPIDO ]", "#ff0000"); else print("STATUS: [ OPERANTE ]", "#00ff00"); } else { print("[-] ID inválido.", "#ff0000"); }
+        }
+        else if (acao === "RESET") { cap = null; mortos = new Array(); DB_ALUNOS = new Object(); dir = "LOGIN"; document.getElementById("p-text").innerText = "LOGIN>"; print("\n[!] Sessão encerrada.", "#ffa000"); }
         else print("[-] Comando inválido.", "#ff0000");
     }
-    const win = document.getElementById("win"), handle = document.getElementById("handle"); let drag = false, x, y; handle.addEventListener("mousedown", (e) => { drag = true; x = e.clientX - win.offsetLeft; y = e.clientY - win.offsetTop; }); document.addEventListener("mousemove", (e) => { if (drag) { win.style.left = `${e.clientX - x}px`; win.style.top = `${e.clientY - y}px`; } }); document.addEventListener("mouseup", () => drag = false);
+    const win = document.getElementById("win"), handle = document.getElementById("handle"); let drag = false, x, y; handle.addEventListener("mousedown", (e) => { drag = true; x = e.clientX - win.offsetLeft; y = e.clientY - win.offsetTop; }); document.addEventListener("mousemove", (e) => { if (drag) { win.style.left = (e.clientX - x) + "px"; win.style.top = (e.clientY - y) + "px"; } }); document.addEventListener("mouseup", () => drag = false);
 </script>
 </body>
 </html>
