@@ -1,0 +1,375 @@
+Nº 001 | Saito Kenji | Paladino Sacerdote | 3-A
+Nº 002 | Murakami Daigo | Escudeiro Pesado | 3-B
+Nº 003 | Matsuda Shizuka | Invocador Espiritual | 3-C
+Nº 004 | Tanaka Kazuma | Geomante de Campo | 3-D
+Nº 005 | Livia Matsui | Analista Tática | 2-B
+Nº 006 | Kevin Silva | Guerreiro de Montante | 2-B
+Nº 007 | Ren Tachibana | Assassino / Rastreador | 2-B
+Nº 008 | Asuka Tanaka | Alquimista de Suprimentos | 1-A
+Nº 009 | Hina Miura | Curandeiro Sacerdote | 1-C
+Nº 010 | Sora Abe | Rastreador de Longa Distância | 1-D
+Nº 011 | Nakamura Yuto | Espadachim Rápido | 1-B
+Nº 012 | Hayashi Takuya | Espadachim Rápido | 1-E
+Nº 013 | Kobayashi Asahi | Assassino / Rastreador | 2-A
+Nº 014 | Ishii Kaito | Espadachim Rápido | 2-C
+Nº 015 | Maeda Sora | Berserk | 2-D
+Nº 016 | Ito Shin | Guerreiro de Montante | 2-E
+Nº 017 | Murakami Shizuka | Assassino / Rastreador | 3-E
+Nº 018 | Sakamoto Kenta | Guerreiro de Montante | 1-A
+Nº 019 | Ishii Rin | Espadachim Rápido | 1-B
+Nº 020 | Fujita Nanami | Assassino / Rastreador | 1-C
+Nº 021 | Sato Ren | Duelista | 1-D
+Nº 022 | Maeda Sakura | Espadachim Rápido | 1-E
+Nº 023 | Kato Shin | Duelista | 2-A
+Nº 024 | Abe Asahi | Paladino | 2-C
+Nº 025 | Yamashita Asahi | Guerreiro de Montante | 2-D
+Nº 026 | Ikeda Shizuka | Duelista | 2-E
+Nº 027 | Takahashi Kana | Duelista | 3-A
+Nº 028 | Nakamura Mei | Berserk | 3-B
+Nº 029 | Sakamoto Ryota | Guerreiro de Montante | 3-C
+Nº 030 | Nishimura Hina | Paladino | 3-D
+Nº 031 | Sasaki Itsuki | Berserk | 3-E
+Nº 032 | Matsumoto Ryota | Guerreiro de Montante | 1-A
+Nº 033 | Matsumoto Asahi | Guerreiro de Montante | 1-B
+Nº 034 | Hayashi Kana | Escudeiro Pesado | 1-C
+Nº 035 | Hashimoto Ren | Espadachim Rápido | 1-D
+Nº 036 | Ikeda Shin | Duelista | 1-E
+Nº 037 | Hayashi Mio | Espadachim Rápido | 2-A
+Nº 038 | Fujii Kanon | Guerreiro de Montante | 2-C
+Nº 039 | Ishii Takuya | Assassino / Rastreador | 2-D
+Nº 040 | Ogawa Mei | Assassino / Rastreador | 2-E
+Nº 041 | Sakamoto Daiki | Duelista | 3-A
+Nº 042 | Mori Yuma | Espadachim Rápido | 3-B
+Nº 043 | Kobayashi Kenta | Espadachim Rápido | 3-C
+Nº 044 | Yamada Haruto | Assassino / Rastreador | 3-D
+Nº 142 | Hasegawa Mei | Mago Elemental (Gelo) | 1-B
+Nº 046 | Sasaki Sora | Guerreiro de Montante | 1-A
+Nº 047 | Yamaguchi Kaito | Paladino | 1-B
+Nº 048 | Yamamoto Haru | Berserk | 1-C
+Nº 049 | Endo Shouta | Duelista | 1-D
+Nº 050 | Abe Kaito | Guerreiro de Montante | 1-E
+Nº 051 | Endo Ryota | Assassino / Rastreador | 2-A
+Nº 052 | Kobayashi Sora | Assassino / Rastreador | 2-C
+Nº 053 | Sakamoto Ren | Berserk | 2-D
+Nº 054 | Shimizu Haruto | Paladino | 2-E
+Nº 055 | Yamaguchi Shouta | Paladino | 3-A
+Nº 056 | Hashimoto Sora | Espadachim Rápido | 3-B
+Nº 057 | Yamazaki Kenta | Assassino / Rastreador | 3-C
+Nº 058 | Hasegawa Ryota | Espadachim Rápido | 3-D
+Nº 059 | Yamashita Itsuki | Escudeiro Pesado | 3-E
+Nº 060 | Takahashi Taiga | Espadachim Rápido | 1-A
+Nº 061 | Nakajima Ren | Escudeiro Pesado | 1-B
+Nº 062 | Kato Yuma | Guerreiro de Montante | 1-C
+Nº 063 | Tanaka Taiga | Guerreiro de Montante | 1-D
+Nº 064 | Kobayashi Haruto | Escudeiro Pesado | 1-E
+Nº 065 | Ish Ishikawa Asahi | Duelista | 2-A
+Nº 066 | Yamashita Haruto | Paladino | 2-C
+Nº 067 | Sato Kaito | Duelista | 2-D
+Nº 068 | Kobayashi Ryo | Berserk | 2-E
+Nº 069 | Nakajima Kenta | Berserk | 3-A
+Nº 070 | Yamamoto Daiki | Guerreiro de Montante | 3-B
+Nº 071 | Endo Hinata | Guerreiro de Montante | 3-C
+Nº 072 | Ito Haruto | Assassino / Rastreador | 3-D
+Nº 073 | Tanaka Riku | Paladino | 3-E
+Nº 074 | Watanabe Ren | Guerreiro de Montante | 1-A
+Nº 075 | Sato Sora | Guerreiro de Montante | 1-B
+Nº 076 | Watanabe Haruto | Berserk | 1-C
+Nº 077 | Inoue Sora | Guerreiro de Montante | 1-D
+Nº 078 | Abe Haru | Espadachim Rápido | 1-E
+Nº 079 | Tanaka Haruto | Guerreiro de Montante | 2-A
+Nº 080 | Yamazaki Haru | Berserk | 2-C
+Nº 081 | Aoki Haruto | Assassino / Rastreador | 2-D
+Nº 082 | Takahashi Yuma | Assassino / Rastreador | 2-E
+Nº 083 | Yamazaki Haruto | Escudeiro Pesado | 3-A
+Nº 084 | Nakajima Haruto | Paladino | 3-B
+Nº 085 | Nakajima Yuto | Duelista | 3-C
+Nº 086 | Ishii Yuto | Guerreiro de Montante | 3-D
+Nº 087 | Takahashi Kenta | Paladino | 3-E
+Nº 088 | Yamaguchi Kenta | Duelista | 1-A
+Nº 089 | Yamashita Yuma | Guerreiro de Montante | 1-B
+Nº 090 | Goto Haruto | Berserk | 1-C
+Nº 091 | Tanaka Kenta | Escudeiro Pesado | 1-D
+Nº 092 | Tanaka Yuto | Escudeiro Pesado | 1-E
+Nº 093 | Saito Haruto | Duelista | 2-A
+Nº 094 | Shimizu Kaito | Guerreiro de Montante | 2-C
+Nº 095 | Kobayashi Yuto | Guerreiro de Montante | 2-D
+Nº 096 | Takahashi Ryo | Espadachim Rápido | 2-E
+Nº 097 | Takahashi Haruto | Escudeiro Pesado | 3-A
+Nº 098 | Maeda Kenta | Escudeiro Pesado | 3-B
+Nº 099 | Abe Ren | Guerreiro de Montante | 3-C
+Nº 100 | Saito Kaito | Paladino | 3-D
+Nº 101 | Ito Yuto | Berserk | 3-E
+Nº 102 | Yamada Yuto | Berserk | 1-A
+Nº 103 | Ikeda Haruto | Paladino | 1-B
+Nº 104 | Yoshida Ren | Guerreiro de Montante | 1-C
+Nº 105 | Nakamura Haruto | Escudeiro Pesado | 1-D
+Nº 106 | Maeda Yuto | Berserk | 1-E
+Nº 107 | Shimizu Yuto | Paladino | 2-A
+Nº 108 | Kato Kaito | Paladino | 2-C
+Nº 109 | Yoshida Haruto | Duelista | 2-D
+Nº 110 | Yamamoto Yuto | Assassino / Rastreador | 2-E
+Nº 111 | Hayashi Yuto | Escudeiro Pesado | 3-A
+Nº 112 | Aoki Yuto | Escudeiro Pesado | 3-B
+Nº 113 | Inoue Yuto | Duelista | 3-C
+Nº 114 | Watanabe Yuto | Paladino | 3-D
+Nº 115 | Sasaki Haruto | Paladino | 3-E
+Nº 116 | Sasaki Yuto | Duelista | 1-A
+Nº 117 | Sato Yuto | Duelista | 1-B
+Nº 118 | Kimura Haruto | Guerreiro de Montante | 1-C
+Nº 119 | Kimura Yuto | Assassino / Rastreador | 1-D
+Nº 120 | Nakamura Ren | Paladino | 1-E
+Nº 121 | Suzuki Yuto | Assassino / Rastreador | 2-A
+Nº 122 | Yamada Haruto | Guerreiro de Montante | 2-C
+Nº 123 | Mori Haruto | Paladino | 2-D
+Nº 124 | Mori Yuto | Paladino | 2-E
+Nº 125 | Kato Haruto | Guerreiro de Montante | 3-A
+Nº 126 | Hasegawa Yuto | Assassino / Rastreador | 3-B
+Nº 127 | Shimizu Haruto | Duelista | 3-C
+Nº 128 | Ota Haruto | Guerreiro de Montante | 3-D
+Nº 129 | Okada Haruto | Curandeiro Sacerdote | 3-E
+Nº 130 | Takahashi Ren | Invocador Espiritual | 1-A
+Nº 131 | Hashimoto Haruto | Mago Elemental (Gelo) | 1-B
+Nº 132 | Hashimoto Yuto | Invocador Espiritual | 1-C
+Nº 133 | Abe Yuto | Curandeiro Sacerdote | 1-D
+Nº 134 | Fujita Haruto | Invocador Espiritual | 1-E
+Nº 135 | Fujita Yuto | Mago Elemental (Fogo) | 2-A
+Nº 136 | Endo Yuto | Curandeiro Sacerdote | 2-B
+Nº 137 | Ota Yuto | Curandeiro Sacerdote | 2-C
+Nº 138 | Ogawa Haruto | Invocador Espiritual | 2-D
+Nº 139 | Ogawa Yuto | Barreira Rúnica | 2-E
+Nº 140 | Ishikawa Haruto | Barreira Rúnica | 3-A
+Nº 141 | Ishikawa Yuto | Curandeiro Sacerdote | 3-B
+Nº 045 | Suzuki Rin | Mago Elemental (Gelo) | 3-C
+Nº 143 | Yamashita Yuto | Invocador Espiritual | 3-D
+Nº 144 | Miura Haruto | Mago Elemental (Gelo) | 3-E
+Nº 145 | Miura Yuto | Rastreador de Longa Distância | 1-A
+Nº 146 | Sakamoto Haruto | Mago Elemental (Gelo) | 1-B
+Nº 147 | Sakamoto Yuto | Curandeiro Sacerdote | 1-C
+Nº 148 | Yamazaki Yuto | Mago Elemental (Gelo) | 1-D
+Nº 149 | Inoue Haruto | Mago Elemental (Gelo) | 1-E
+Nº 150 | Murakami Haruto | Mago Elemental (Fogo) | 2-A
+Nº 151 | Murakami Yuto | Mago Elemental (Fogo) | 2-B
+Nº 152 | Nakajima Sora | Barreira Rúnica | 2-C
+Nº 153 | Okada Yuto | Curandeiro Sacerdote | 2-D
+Nº 154 | Kondo Haruto | Barreira Rúnica | 2-E
+Nº 155 | Kondo Yuto | Invocador Espiritual | 3-A
+Nº 156 | Ishii Haruto | Curandeiro Sacerdote | 3-B
+Nº 157 | Ishii Yuto | Rastreador de Longa Distância | 3-C
+Nº 158 | Fujii Haruto | Invocador Espiritual | 3-D
+Nº 159 | Fujii Yuto | Invocador Espiritual | 3-E
+Nº 160 | Nishimura Haruto | Mago Elemental (Fogo) | 1-A
+Nº 161 | Nishimura Yuto | Barreira Rúnica | 1-B
+Nº 162 | Tanaka Sora | Barreira Rúnica | 1-C
+Nº 163 | Watanabe Sora | Mago Elemental (Fogo) | 1-D
+Nº 164 | Yamamoto Sora | Curandeiro Sacerdote | 1-E
+Nº 165 | Nakamura Sora | Invocador Espiritual | 2-A
+Nº 166 | Kobayashi Sora | Mago Elemental (Gelo) | 2-B
+Nº 167 | Kato Sora | Barreira Rúnica | 2-C
+Nº 168 | Yoshida Sora | Mago Elemental (Gelo) | 2-D
+Nº 169 | Yamada Sora | Mago Elemental (Fogo) | 2-E
+Nº 170 | Sasaki Sora | Mago Elemental (Gelo) | 3-A
+Nº 171 | Yamaguchi Sora | Invocador Espiritual | 3-B
+Nº 172 | Matsumoto Sora | Barreira Rúnica | 3-C
+Nº 173 | Inoue Sora | Invocador Espiritual | 3-D
+Nº 174 | Kimura Sora | Mago Elemental (Fogo) | 3-E
+Nº 175 | Hayashi Sora | Invocador Espiritual | 1-A
+Nº 176 | Shimizu Sora | Invocador Espiritual | 1-B
+Nº 177 | Yamazaki Sora | Barreira Rúnica | 1-C
+Nº 178 | Mori Sora | Invocador Espiritual | 1-D
+Nº 179 | Abe Sora | Mago Elemental (Gelo) | 1-E
+Nº 180 | Ikeda Sora | Curandeiro Sacerdote | 2-A
+Nº 181 | Hashimoto Sora | Curandeiro Sacerdote | 2-B
+Nº 182 | Yamashita Sora | Rastreador de Longa Distância | 2-C
+Nº 183 | Ishikawa Sora | Curandeiro Sacerdote | 2-D
+Nº 184 | Nakajima Ren | Invocador Espiritual | 2-E
+Nº 185 | Maeda Sora | Invocador Espiritual | 3-A
+Nº 186 | Fujita Sora | Mago Elemental (Fogo) | 3-B
+Nº 187 | Ogawa Sora | Barreira Rúnica | 3-C
+Nº 188 | Okada Sora | Mago Elemental (Gelo) | 3-D
+Nº 189 | Hasegawa Sora | Curandeiro Sacerdote | 3-E
+Nº 190 | Murakami Sora | Barreira Rúnica | 1-A
+Nº 191 | Kondo Sora | Barreira Rúnica | 1-B
+Nº 192 | Ishii Sora | Mago Elemental (Fogo) | 1-C
+Nº 193 | Sakamoto Sora | Mago Elemental (Fogo) | 1-D
+Nº 194 | Endo Sora | Invocador Espiritual | 1-E
+Nº 195 | Aoki Sora | Mago Elemental (Fogo) | 2-A
+Nº 196 | Fujii Sora | Invocador Espiritual | 2-B
+Nº 197 | Nishimura Sora | Mago Elemental (Gelo) | 2-C
+Nº 198 | Tanaka Yuma | Mago Elemental (Gelo) | 2-D
+Nº 199 | Watanabe Yuma | Invocador Espiritual | 2-E
+Nº 200 | Yamamoto Yuma | Curandeiro Sacerdote | 3-A
+Nº 201 | Nakamura Yuma | Mago Elemental (Gelo) | 3-B
+Nº 202 | Kobayashi Yuma | Invocador Espiritual | 3-C
+Nº 203 | Kato Yuma | Barreira Rúnica | 3-D
+Nº 204 | Yoshida Yuma | Barreira Rúnica | 3-E
+Nº 205 | Yamada Yuma | Curandeiro Sacerdote | 1-A
+Nº 206 | Sasaki Yuma | Mago Elemental (Gelo) | 1-B
+Nº 207 | Yamaguchi Yuma | Rastreador de Longa Distância | 1-C
+Nº 208 | Matsumoto Yuma | Mago Elemental (Fogo) | 1-D
+Nº 209 | Inoue Yuma | Mago Elemental (Gelo) | 1-E
+Nº 210 | Kimura Yuma | Invocador Espiritual | 2-A
+Nº 211 | Hayashi Yuma | Mago Elemental (Fogo) | 2-B
+Nº 212 | Shimizu Yuma | Rastreador de Longa Distância | 2-C
+Nº 213 | Yamazaki Yuma | Barreira Rúnica | 2-D
+Nº 214 | Mori Yuma | Mago Elemental (Gelo) | 2-E
+Nº 215 | Abe Yuma | Rastreador de Longa Distância | 3-A
+Nº 216 | Ikeda Yuma | Curandeiro Sacerdote | 3-B
+Nº 217 | Hashimoto Yuma | Rastreador de Longa Distância | 3-C
+Nº 218 | Yamashita Yuma | Curandeiro Sacerdote | 3-D
+Nº 219 | Ishikawa Yuma | Mago Elemental (Fogo) | 3-E
+Nº 220 | Nakajima Yuma | Invocador Espiritual | 1-A
+Nº 221 | Maeda Yuma | Curandeiro Sacerdote | 1-B
+Nº 222 | Fujita Yuma | Curandeiro Sacerdote | 1-C
+Nº 223 | Ogawa Yuma | Curandeiro Sacerdote | 1-D
+Nº 224 | Okada Yuma | Mago Elemental (Gelo) | 1-E
+Nº 225 | Hasegawa Yuma | Invocador Espiritual | 2-A
+Nº 226 | Murakami Yuma | Curandeiro Sacerdote | 2-B
+Nº 227 | Kondo Yuma | Invocador Espiritual | 2-C
+Nº 228 | Ishii Yuma | Barreira Rúnica | 2-D
+Nº 229 | Sakamoto Yuma | Mago Elemental (Fogo) | 2-E
+Nº 230 | Endo Yuma | Mago Elemental (Gelo) | 3-A
+Nº 231 | Aoki Yuma | Barreira Rúnica | 3-B
+Nº 232 | Fujii Yuma | Invocador Espiritual | 3-C
+Nº 233 | Nishimura Yuma | Mago Elemental (Fogo) | 3-D
+Nº 234 | Tanaka Itsuki | Rastreador de Longa Distância | 3-E
+Nº 235 | Watanabe Itsuki | Invocador Espiritual | 1-A
+Nº 236 | Yamamoto Itsuki | Curandeiro Sacerdote | 1-B
+Nº 237 | Nakamura Itsuki | Mago Elemental (Gelo) | 1-C
+Nº 238 | Kobayashi Itsuki | Mago Elemental (Fogo) | 1-D
+Nº 239 | Kato Itsuki | Mago Elemental (Gelo) | 1-E
+Nº 240 | Yoshida Itsuki | Mago Elemental (Fogo) | 2-A
+Nº 241 | Yamada Itsuki | Invocador Espiritual | 2-B
+Nº 242 | Sasaki Itsuki | Mago Elemental (Gelo) | 2-C
+Nº 243 | Yamaguchi Itsuki | Curandeiro Sacerdote | 2-D
+Nº 244 | Matsumoto Itsuki | Mago Elemental (Gelo) | 2-E
+Nº 245 | Inoue Itsuki | Curandeiro Sacerdote | 3-A
+Nº 246 | Kimura Itsuki | Curandeiro Sacerdote | 3-B
+Nº 247 | Hayashi Itsuki | Curandeiro Sacerdote | 3-C
+Nº 248 | Shimizu Itsuki | Curandeiro Sacerdote | 3-D
+Nº 249 | Yamazaki Itsuki | Curandeiro Sacerdote | 3-E
+Nº 250 | Mori Itsuki | Invocador Espiritual | 1-A
+Nº 251 | Abe Itsuki | Invocador Espiritual | 1-B
+Nº 252 | Ikeda Itsuki | Curandeiro Sacerdote | 1-C
+Nº 253 | Hashimoto Itsuki | Mago Elemental (Fogo) | 1-D
+Nº 254 | Yamashita Itsuki | Curandeiro Sacerdote | 1-E
+Nº 255 | Ishikawa Itsuki | Mago Elemental (Fogo) | 2-A
+Nº 256 | Nakajima Itsuki | Alquimista de Suprimentos | 2-B
+Nº 257 | Maeda Itsuki | Domador de Feras | 2-C
+Nº 258 | Fujita Itsuki | Domador de Feras | 2-D
+Nº 259 | Ogawa Itsuki | Artífice / Carpinteiro | 2-E
+Nº 260 | Okada Itsuki | Tecelão de Proteção | 3-A
+Nº 261 | Hasegawa Itsuki | Alquimista de Suprimentos | 3-B
+Nº 262 | Murakami Itsuki | Cozinheiro de Status | 3-C
+Nº 263 | Kondo Itsuki | Artífice / Carpinteiro | 3-D
+Nº 264 | Ishii Itsuki | Cozinheiro de Status | 3-E
+Nº 265 | Sakamoto Itsuki | Alquimista de Suprimentos | 1-A
+Nº 266 | Endo Itsuki | Ferreiro Rúnico | 1-B
+Nº 267 | Aoki Itsuki | Ferreiro Rúnico | 1-C
+Nº 268 | Fujii Itsuki | Geomante de Campo | 1-D
+Nº 269 | Nishimura Itsuki | Domador de Feras | 1-E
+Nº 270 | Tanaka Kaito | Cozinheiro de Status | 2-A
+Nº 271 | Watanabe Kaito | Geomante de Campo | 2-B
+Nº 272 | Yamamoto Kaito | Ferreiro Rúnico | 2-C
+Nº 273 | Nakamura Kaito | Domador de Feras | 2-D
+Nº 274 | Kobayashi Kaito | Alquimista de Suprimentos | 2-E
+Nº 275 | Kato Kaito | Cozinheiro de Status | 3-A
+Nº 276 | Yoshida Kaito | Artífice / Carpinteiro | 3-B
+Nº 277 | Yamada Kaito | Ferreiro Rúnico | 3-C
+Nº 278 | Sasaki Kaito | Domador de Feras | 3-D
+Nº 279 | Yamaguchi Kaito | Alquimista de Suprimentos | 3-E
+Nº 280 | Matsumoto Kaito | Artífice / Carpinteiro | 1-A
+Nº 281 | Inoue Kaito | Alquimista de Suprimentos | 1-B
+Nº 282 | Kimura Kaito | Ferreiro Rúnico | 1-C
+Nº 283 | Hayashi Kaito | Cozinheiro de Status | 1-D
+Nº 284 | Shimizu Kaito | Alquimista de Suprimentos | 1-E
+Nº 285 | Yamazaki Kaito | Tecelão de Proteção | 2-A
+Nº 286 | Mori Kaito | Cozinheiro de Status | 2-B
+Nº 287 | Abe Kaito | Tecelão de Proteção | 2-C
+Nº 288 | Ikeda Kaito | Domador de Feras | 2-D
+Nº 289 | Hashimoto Kaito | Cozinheiro de Status | 2-E
+Nº 290 | Yamashita Kaito | Tecelão de Proteção | 3-A
+Nº 291 | Ishikawa Kaito | Domador de Feras | 3-B
+Nº 292 | Nakajima Kaito | Alquimista de Suprimentos | 3-C
+Nº 293 | Maeda Kaito | Alquimista de Suprimentos | 3-D
+Nº 294 | Fujita Kaito | Artífice / Carpinteiro | 3-E
+Nº 295 | Ogawa Kaito | Artífice / Carpinteiro | 1-A
+Nº 296 | Okada Kaito | Alquimista de Suprimentos | 1-B
+Nº 297 | Hasegawa Kaito | Alquimista de Suprimentos | 1-C
+Nº 298 | Murakami Kaito | Cozinheiro de Status | 1-D
+Nº 299 | Kondo Kaito | Alquimista de Suprimentos | 1-E
+Nº 300 | Ishii Kaito | Domador de Feras | 2-A
+Nº 301 | Sakamoto Kaito | Tecelão de Proteção | 2-B
+Nº 302 | Endo Kaito | Domador de Feras | 2-C
+Nº 303 | Aoki Kaito | Cozinheiro de Status | 2-D
+Nº 304 | Fujii Kaito | Domador de Feras | 2-E
+Nº 305 | Nishimura Kaito | Domador de Feras | 3-A
+Nº 306 | Tanaka Asahi | Ferreiro Rúnico | 3-B
+Nº 307 | Watanabe Asahi | Artífice / Carpinteiro | 3-C
+Nº 308 | Yamamoto Asahi | Domador de Feras | 3-D
+Nº 309 | Nakamura Asahi | Alquimista de Suprimentos | 3-E
+Nº 310 | Kobayashi Asahi | Artífice / Carpinteiro | 1-A
+Nº 311 | Kato Asahi | Cozinheiro de Status | 1-B
+Nº 312 | Yoshida Asahi | Ferreiro Rúnico | 1-C
+Nº 313 | Yamada Asahi | Alquimista de Suprimentos | 1-D
+Nº 314 | Sasaki Asahi | Cozinheiro de Status | 1-E
+Nº 315 | Yamaguchi Asahi | Alquimista de Suprimentos | 2-A
+Nº 316 | Matsumoto Asahi | Ferreiro Rúnico | 2-B
+Nº 317 | Inoue Asahi | Alquimista de Suprimentos | 2-C
+Nº 318 | Kimura Asahi | Cozinheiro de Status | 2-D
+Nº 319 | Hayashi Asahi | Ferreiro Rúnico | 2-E
+Nº 320 | Shimizu Asahi | Alquimista de Suprimentos | 3-A
+Nº 321 | Yamazaki Asahi | Tecelão de Proteção | 3-B
+Nº 322 | Mori Asahi | Domador de Feras | 3-C
+Nº 323 | Abe Asahi | Ferreiro Rúnico | 3-D
+Nº 324 | Ikeda Asahi | Ferreiro Rúnico | 3-E
+Nº 325 | Hashimoto Asahi | Alquimista de Suprimentos | 1-A
+Nº 326 | Yamashita Asahi | Domador de Feras | 1-B
+Nº 327 | Ishikawa Asahi | Domador de Feras | 1-C
+Nº 328 | Nakajima Asahi | Ferreiro Rúnico | 1-D
+Nº 329 | Maeda Asahi | Domador de Feras | 1-E
+Nº 330 | Fujita Asahi | Ferreiro Rúnico | 2-A
+Nº 331 | Ogawa Asahi | Ferreiro Rúnico | 2-B
+Nº 332 | Okada Asahi | Cozinheiro de Status | 2-C
+Nº 333 | Hasegawa Asahi | Cozinheiro de Status | 2-D
+Nº 334 | Murakami Asahi | Geomante de Campo | 2-E
+Nº 335 | Kondo Asahi | Cozinheiro de Status | 3-A
+Nº 336 | Ishii Asahi | Tecelão de Proteção | 3-B
+Nº 337 | Sakamoto Asahi | Geomante de Campo | 3-C
+Nº 338 | Endo Asahi | Cozinheiro de Status | 3-D
+Nº 339 | Aoki Asahi | Ferreiro Rúnico | 3-E
+Nº 340 | Fujii Asahi | Artífice / Carpinteiro | 1-A
+Nº 341 | Nishimura Asahi | Cozinheiro de Status | 1-B
+Nº 342 | Tanaka Riku | Tecelão de Proteção | 1-C
+Nº 343 | Watanabe Riku | Domador de Feras | 1-D
+Nº 344 | Yamamoto Riku | Domador de Feras | 1-E
+Nº 345 | Nakamura Riku | Artífice / Carpinteiro | 2-A
+Nº 346 | Kobayashi Riku | Alquimista de Suprimentos | 2-B
+Nº 347 | Kato Riku | Ferreiro Rúnico | 2-C
+Nº 348 | Yoshida Riku | Alquimista de Suprimentos | 2-D
+Nº 349 | Yamada Riku | Cozinheiro de Status | 2-E
+Nº 350 | Sasaki Riku | Artífice / Carpinteiro | 3-A
+Nº 351 | Yamaguchi Riku | Geomante de Campo | 3-B
+Nº 352 | Matsumoto Riku | Cozinheiro de Status | 3-C
+Nº 353 | Inoue Riku | Artífice / Carpinteiro | 3-D
+Nº 354 | Kimura Riku | Alquimista de Suprimentos | 3-E
+Nº 355 | Hayashi Riku | Tecelão de Proteção | 1-A
+Nº 356 | Shimizu Riku | Domador de Feras | 1-B
+Nº 357 | Yamazaki Riku | Cozinheiro de Status | 1-C
+Nº 358 | Mori Riku | Cozinheiro de Status | 1-D
+Nº 359 | Abe Riku | Cozinheiro de Status | 1-E
+Nº 360 | Ikeda Riku | Artífice / Carpinteiro | 2-A
+Nº 361 | Hashimoto Riku | Cozinheiro de Status | 2-B
+Nº 362 | Yamashita Riku | Ferreiro Rúnico | 2-C
+Nº 363 | Ishikawa Riku | Ferreiro Rúnico | 2-D
+Nº 364 | Nakajima Riku | Alquimista de Suprimentos | 2-E
+Nº 365 | Maeda Riku | Alquimista de Suprimentos | 3-A
+Nº 366 | Fujita Riku | Domador de Feras | 3-B
+Nº 367 | Ogawa Riku | Alquimista de Suprimentos | 3-C
+Nº 368 | Okada Riku | Ferreiro Rúnico | 3-D
+Nº 369 | Hasegawa Riku | Artífice / Carpinteiro | 3-E
+Nº 370 | Murakami Riku | Cozinheiro de Status | 1-A
+Nº 371 | Kondo Riku | Cozinheiro de Status | 1-B
+Nº 372 | Ishii Riku | Domador de Feras | 1-C
+Nº 373 | Sakamoto Riku | Domador de Feras | 1-D
+Nº 374 | Endo Riku | Alquimista de Suprimentos | 1-E
+Nº 375 | Aoki Riku | Alquimista de Suprimentos | 2-A
