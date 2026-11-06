@@ -24,7 +24,7 @@
     <div class="window" id="win">
         <div class="title-bar" id="handle"><span>💻 C:\SHIROFUJI_OS\MONITOR.EXE</span><div class="title-btn" onclick="fechar()">X</div></div>
         <div class="content" id="log">
-            <div>[SHIROFUJI MONITOR OS - V1.5.0]</div>
+            <div>[SHIROFUJI MONITOR OS - V1.5.4]</div>
             <div>DIRETRIZ DE PROTEÇÃO GEOPOLÍTICA DO GRÊMIO SUPREMO</div>
             <div>--------------------------------------------------------</div>
             <div style="color:#ffa000;">DIGITE SEU NOME DE USUÁRIO PARA INICIAR A SESSÃO RÚNICA:</div><br>
@@ -33,9 +33,8 @@
     </div>
 </div>
 <script>
-    const USER = "Belluafurens"; 
-    const REPO = "sistema-shirofuji";
-    const BASE_URL = "https://githubusercontent.com" + USER + "/" + REPO + "/main/";
+    // URL CORRIGIDA COM O SUBDOMÍNIO 'RAW' DO GITHUB
+    const BASE_URL = "https://githubusercontent.com";
     
     let dir = "LOGIN", cap = null, DB_ALUNOS = new Object(), mortos = new Array(), nickUsuario = "user";
     const PASTAS = { "C:\\": {p: ["BIN", "USER", "LOGS"], f: ["LEIA_ME.TXT"]}, "C:\\BIN": {p: new Array(), f: ["MONITOR.EXE"]}, "C:\\USER": {p: new Array(), f: ["NOTAS.LOG"]}, "C:\\LOGS": {p: new Array(), f: ["BAIXAS.DAT"]} };
