@@ -1,375 +1,375 @@
-Nº 001 | Saito Kenji | Paladino Sacerdote | 3-A
-Nº 002 | Murakami Daigo | Escudeiro Pesado | 3-B
-Nº 003 | Matsuda Shizuka | Invocador Espiritual | 3-C
-Nº 004 | Tanaka Kazuma | Geomante de Campo | 3-D
-Nº 005 | Livia Matsui | Analista Tática | 2-B
-Nº 006 | Kevin Silva | Guerreiro de Montante | 2-B
-Nº 007 | Ren Tachibana | Assassino / Rastreador | 2-B
-Nº 008 | Asuka Tanaka | Alquimista de Suprimentos | 1-A
-Nº 009 | Hina Miura | Curandeiro Sacerdote | 1-C
-Nº 010 | Sora Abe | Rastreador de Longa Distância | 1-D
-Nº 011 | Nakamura Yuto | Espadachim Rápido | 1-B
-Nº 012 | Hayashi Takuya | Espadachim Rápido | 1-E
-Nº 013 | Kobayashi Asahi | Assassino / Rastreador | 2-A
-Nº 014 | Ishii Kaito | Espadachim Rápido | 2-C
-Nº 015 | Maeda Sora | Berserk | 2-D
-Nº 016 | Ito Shin | Guerreiro de Montante | 2-E
-Nº 017 | Murakami Shizuka | Assassino / Rastreador | 3-E
-Nº 018 | Sakamoto Kenta | Guerreiro de Montante | 1-A
-Nº 019 | Ishii Rin | Espadachim Rápido | 1-B
-Nº 020 | Fujita Nanami | Assassino / Rastreador | 1-C
-Nº 021 | Sato Ren | Duelista | 1-D
-Nº 022 | Maeda Sakura | Espadachim Rápido | 1-E
-Nº 023 | Kato Shin | Duelista | 2-A
-Nº 024 | Abe Asahi | Paladino | 2-C
-Nº 025 | Yamashita Asahi | Guerreiro de Montante | 2-D
-Nº 026 | Ikeda Shizuka | Duelista | 2-E
-Nº 027 | Takahashi Kana | Duelista | 3-A
-Nº 028 | Nakamura Mei | Berserk | 3-B
-Nº 029 | Sakamoto Ryota | Guerreiro de Montante | 3-C
-Nº 030 | Nishimura Hina | Paladino | 3-D
-Nº 031 | Sasaki Itsuki | Berserk | 3-E
-Nº 032 | Matsumoto Ryota | Guerreiro de Montante | 1-A
-Nº 033 | Matsumoto Asahi | Guerreiro de Montante | 1-B
-Nº 034 | Hayashi Kana | Escudeiro Pesado | 1-C
-Nº 035 | Hashimoto Ren | Espadachim Rápido | 1-D
-Nº 036 | Ikeda Shin | Duelista | 1-E
-Nº 037 | Hayashi Mio | Espadachim Rápido | 2-A
-Nº 038 | Fujii Kanon | Guerreiro de Montante | 2-C
-Nº 039 | Ishii Takuya | Assassino / Rastreador | 2-D
-Nº 040 | Ogawa Mei | Assassino / Rastreador | 2-E
-Nº 041 | Sakamoto Daiki | Duelista | 3-A
-Nº 042 | Mori Yuma | Espadachim Rápido | 3-B
-Nº 043 | Kobayashi Kenta | Espadachim Rápido | 3-C
-Nº 044 | Yamada Haruto | Assassino / Rastreador | 3-D
-Nº 142 | Hasegawa Mei | Mago Elemental (Gelo) | 1-B
-Nº 046 | Sasaki Sora | Guerreiro de Montante | 1-A
-Nº 047 | Yamaguchi Kaito | Paladino | 1-B
-Nº 048 | Yamamoto Haru | Berserk | 1-C
-Nº 049 | Endo Shouta | Duelista | 1-D
-Nº 050 | Abe Kaito | Guerreiro de Montante | 1-E
-Nº 051 | Endo Ryota | Assassino / Rastreador | 2-A
-Nº 052 | Kobayashi Sora | Assassino / Rastreador | 2-C
-Nº 053 | Sakamoto Ren | Berserk | 2-D
-Nº 054 | Shimizu Haruto | Paladino | 2-E
-Nº 055 | Yamaguchi Shouta | Paladino | 3-A
-Nº 056 | Hashimoto Sora | Espadachim Rápido | 3-B
-Nº 057 | Yamazaki Kenta | Assassino / Rastreador | 3-C
-Nº 058 | Hasegawa Ryota | Espadachim Rápido | 3-D
-Nº 059 | Yamashita Itsuki | Escudeiro Pesado | 3-E
-Nº 060 | Takahashi Taiga | Espadachim Rápido | 1-A
-Nº 061 | Nakajima Ren | Escudeiro Pesado | 1-B
-Nº 062 | Kato Yuma | Guerreiro de Montante | 1-C
-Nº 063 | Tanaka Taiga | Guerreiro de Montante | 1-D
-Nº 064 | Kobayashi Haruto | Escudeiro Pesado | 1-E
-Nº 065 | Ish Ishikawa Asahi | Duelista | 2-A
-Nº 066 | Yamashita Haruto | Paladino | 2-C
-Nº 067 | Sato Kaito | Duelista | 2-D
-Nº 068 | Kobayashi Ryo | Berserk | 2-E
-Nº 069 | Nakajima Kenta | Berserk | 3-A
-Nº 070 | Yamamoto Daiki | Guerreiro de Montante | 3-B
-Nº 071 | Endo Hinata | Guerreiro de Montante | 3-C
-Nº 072 | Ito Haruto | Assassino / Rastreador | 3-D
-Nº 073 | Tanaka Riku | Paladino | 3-E
-Nº 074 | Watanabe Ren | Guerreiro de Montante | 1-A
-Nº 075 | Sato Sora | Guerreiro de Montante | 1-B
-Nº 076 | Watanabe Haruto | Berserk | 1-C
-Nº 077 | Inoue Sora | Guerreiro de Montante | 1-D
-Nº 078 | Abe Haru | Espadachim Rápido | 1-E
-Nº 079 | Tanaka Haruto | Guerreiro de Montante | 2-A
-Nº 080 | Yamazaki Haru | Berserk | 2-C
-Nº 081 | Aoki Haruto | Assassino / Rastreador | 2-D
-Nº 082 | Takahashi Yuma | Assassino / Rastreador | 2-E
-Nº 083 | Yamazaki Haruto | Escudeiro Pesado | 3-A
-Nº 084 | Nakajima Haruto | Paladino | 3-B
-Nº 085 | Nakajima Yuto | Duelista | 3-C
-Nº 086 | Ishii Yuto | Guerreiro de Montante | 3-D
-Nº 087 | Takahashi Kenta | Paladino | 3-E
-Nº 088 | Yamaguchi Kenta | Duelista | 1-A
-Nº 089 | Yamashita Yuma | Guerreiro de Montante | 1-B
-Nº 090 | Goto Haruto | Berserk | 1-C
-Nº 091 | Tanaka Kenta | Escudeiro Pesado | 1-D
-Nº 092 | Tanaka Yuto | Escudeiro Pesado | 1-E
-Nº 093 | Saito Haruto | Duelista | 2-A
-Nº 094 | Shimizu Kaito | Guerreiro de Montante | 2-C
-Nº 095 | Kobayashi Yuto | Guerreiro de Montante | 2-D
-Nº 096 | Takahashi Ryo | Espadachim Rápido | 2-E
-Nº 097 | Takahashi Haruto | Escudeiro Pesado | 3-A
-Nº 098 | Maeda Kenta | Escudeiro Pesado | 3-B
-Nº 099 | Abe Ren | Guerreiro de Montante | 3-C
-Nº 100 | Saito Kaito | Paladino | 3-D
-Nº 101 | Ito Yuto | Berserk | 3-E
-Nº 102 | Yamada Yuto | Berserk | 1-A
-Nº 103 | Ikeda Haruto | Paladino | 1-B
-Nº 104 | Yoshida Ren | Guerreiro de Montante | 1-C
-Nº 105 | Nakamura Haruto | Escudeiro Pesado | 1-D
-Nº 106 | Maeda Yuto | Berserk | 1-E
-Nº 107 | Shimizu Yuto | Paladino | 2-A
-Nº 108 | Kato Kaito | Paladino | 2-C
-Nº 109 | Yoshida Haruto | Duelista | 2-D
-Nº 110 | Yamamoto Yuto | Assassino / Rastreador | 2-E
-Nº 111 | Hayashi Yuto | Escudeiro Pesado | 3-A
-Nº 112 | Aoki Yuto | Escudeiro Pesado | 3-B
-Nº 113 | Inoue Yuto | Duelista | 3-C
-Nº 114 | Watanabe Yuto | Paladino | 3-D
-Nº 115 | Sasaki Haruto | Paladino | 3-E
-Nº 116 | Sasaki Yuto | Duelista | 1-A
-Nº 117 | Sato Yuto | Duelista | 1-B
-Nº 118 | Kimura Haruto | Guerreiro de Montante | 1-C
-Nº 119 | Kimura Yuto | Assassino / Rastreador | 1-D
-Nº 120 | Nakamura Ren | Paladino | 1-E
-Nº 121 | Suzuki Yuto | Assassino / Rastreador | 2-A
-Nº 122 | Yamada Haruto | Guerreiro de Montante | 2-C
-Nº 123 | Mori Haruto | Paladino | 2-D
-Nº 124 | Mori Yuto | Paladino | 2-E
-Nº 125 | Kato Haruto | Guerreiro de Montante | 3-A
-Nº 126 | Hasegawa Yuto | Assassino / Rastreador | 3-B
-Nº 127 | Shimizu Haruto | Duelista | 3-C
-Nº 128 | Ota Haruto | Guerreiro de Montante | 3-D
-Nº 129 | Okada Haruto | Curandeiro Sacerdote | 3-E
-Nº 130 | Takahashi Ren | Invocador Espiritual | 1-A
-Nº 131 | Hashimoto Haruto | Mago Elemental (Gelo) | 1-B
-Nº 132 | Hashimoto Yuto | Invocador Espiritual | 1-C
-Nº 133 | Abe Yuto | Curandeiro Sacerdote | 1-D
-Nº 134 | Fujita Haruto | Invocador Espiritual | 1-E
-Nº 135 | Fujita Yuto | Mago Elemental (Fogo) | 2-A
-Nº 136 | Endo Yuto | Curandeiro Sacerdote | 2-B
-Nº 137 | Ota Yuto | Curandeiro Sacerdote | 2-C
-Nº 138 | Ogawa Haruto | Invocador Espiritual | 2-D
-Nº 139 | Ogawa Yuto | Barreira Rúnica | 2-E
-Nº 140 | Ishikawa Haruto | Barreira Rúnica | 3-A
-Nº 141 | Ishikawa Yuto | Curandeiro Sacerdote | 3-B
-Nº 045 | Suzuki Rin | Mago Elemental (Gelo) | 3-C
-Nº 143 | Yamashita Yuto | Invocador Espiritual | 3-D
-Nº 144 | Miura Haruto | Mago Elemental (Gelo) | 3-E
-Nº 145 | Miura Yuto | Rastreador de Longa Distância | 1-A
-Nº 146 | Sakamoto Haruto | Mago Elemental (Gelo) | 1-B
-Nº 147 | Sakamoto Yuto | Curandeiro Sacerdote | 1-C
-Nº 148 | Yamazaki Yuto | Mago Elemental (Gelo) | 1-D
-Nº 149 | Inoue Haruto | Mago Elemental (Gelo) | 1-E
-Nº 150 | Murakami Haruto | Mago Elemental (Fogo) | 2-A
-Nº 151 | Murakami Yuto | Mago Elemental (Fogo) | 2-B
-Nº 152 | Nakajima Sora | Barreira Rúnica | 2-C
-Nº 153 | Okada Yuto | Curandeiro Sacerdote | 2-D
-Nº 154 | Kondo Haruto | Barreira Rúnica | 2-E
-Nº 155 | Kondo Yuto | Invocador Espiritual | 3-A
-Nº 156 | Ishii Haruto | Curandeiro Sacerdote | 3-B
-Nº 157 | Ishii Yuto | Rastreador de Longa Distância | 3-C
-Nº 158 | Fujii Haruto | Invocador Espiritual | 3-D
-Nº 159 | Fujii Yuto | Invocador Espiritual | 3-E
-Nº 160 | Nishimura Haruto | Mago Elemental (Fogo) | 1-A
-Nº 161 | Nishimura Yuto | Barreira Rúnica | 1-B
-Nº 162 | Tanaka Sora | Barreira Rúnica | 1-C
-Nº 163 | Watanabe Sora | Mago Elemental (Fogo) | 1-D
-Nº 164 | Yamamoto Sora | Curandeiro Sacerdote | 1-E
-Nº 165 | Nakamura Sora | Invocador Espiritual | 2-A
-Nº 166 | Kobayashi Sora | Mago Elemental (Gelo) | 2-B
-Nº 167 | Kato Sora | Barreira Rúnica | 2-C
-Nº 168 | Yoshida Sora | Mago Elemental (Gelo) | 2-D
-Nº 169 | Yamada Sora | Mago Elemental (Fogo) | 2-E
-Nº 170 | Sasaki Sora | Mago Elemental (Gelo) | 3-A
-Nº 171 | Yamaguchi Sora | Invocador Espiritual | 3-B
-Nº 172 | Matsumoto Sora | Barreira Rúnica | 3-C
-Nº 173 | Inoue Sora | Invocador Espiritual | 3-D
-Nº 174 | Kimura Sora | Mago Elemental (Fogo) | 3-E
-Nº 175 | Hayashi Sora | Invocador Espiritual | 1-A
-Nº 176 | Shimizu Sora | Invocador Espiritual | 1-B
-Nº 177 | Yamazaki Sora | Barreira Rúnica | 1-C
-Nº 178 | Mori Sora | Invocador Espiritual | 1-D
-Nº 179 | Abe Sora | Mago Elemental (Gelo) | 1-E
-Nº 180 | Ikeda Sora | Curandeiro Sacerdote | 2-A
-Nº 181 | Hashimoto Sora | Curandeiro Sacerdote | 2-B
-Nº 182 | Yamashita Sora | Rastreador de Longa Distância | 2-C
-Nº 183 | Ishikawa Sora | Curandeiro Sacerdote | 2-D
-Nº 184 | Nakajima Ren | Invocador Espiritual | 2-E
-Nº 185 | Maeda Sora | Invocador Espiritual | 3-A
-Nº 186 | Fujita Sora | Mago Elemental (Fogo) | 3-B
-Nº 187 | Ogawa Sora | Barreira Rúnica | 3-C
-Nº 188 | Okada Sora | Mago Elemental (Gelo) | 3-D
-Nº 189 | Hasegawa Sora | Curandeiro Sacerdote | 3-E
-Nº 190 | Murakami Sora | Barreira Rúnica | 1-A
-Nº 191 | Kondo Sora | Barreira Rúnica | 1-B
-Nº 192 | Ishii Sora | Mago Elemental (Fogo) | 1-C
-Nº 193 | Sakamoto Sora | Mago Elemental (Fogo) | 1-D
-Nº 194 | Endo Sora | Invocador Espiritual | 1-E
-Nº 195 | Aoki Sora | Mago Elemental (Fogo) | 2-A
-Nº 196 | Fujii Sora | Invocador Espiritual | 2-B
-Nº 197 | Nishimura Sora | Mago Elemental (Gelo) | 2-C
-Nº 198 | Tanaka Yuma | Mago Elemental (Gelo) | 2-D
-Nº 199 | Watanabe Yuma | Invocador Espiritual | 2-E
-Nº 200 | Yamamoto Yuma | Curandeiro Sacerdote | 3-A
-Nº 201 | Nakamura Yuma | Mago Elemental (Gelo) | 3-B
-Nº 202 | Kobayashi Yuma | Invocador Espiritual | 3-C
-Nº 203 | Kato Yuma | Barreira Rúnica | 3-D
-Nº 204 | Yoshida Yuma | Barreira Rúnica | 3-E
-Nº 205 | Yamada Yuma | Curandeiro Sacerdote | 1-A
-Nº 206 | Sasaki Yuma | Mago Elemental (Gelo) | 1-B
-Nº 207 | Yamaguchi Yuma | Rastreador de Longa Distância | 1-C
-Nº 208 | Matsumoto Yuma | Mago Elemental (Fogo) | 1-D
-Nº 209 | Inoue Yuma | Mago Elemental (Gelo) | 1-E
-Nº 210 | Kimura Yuma | Invocador Espiritual | 2-A
-Nº 211 | Hayashi Yuma | Mago Elemental (Fogo) | 2-B
-Nº 212 | Shimizu Yuma | Rastreador de Longa Distância | 2-C
-Nº 213 | Yamazaki Yuma | Barreira Rúnica | 2-D
-Nº 214 | Mori Yuma | Mago Elemental (Gelo) | 2-E
-Nº 215 | Abe Yuma | Rastreador de Longa Distância | 3-A
-Nº 216 | Ikeda Yuma | Curandeiro Sacerdote | 3-B
-Nº 217 | Hashimoto Yuma | Rastreador de Longa Distância | 3-C
-Nº 218 | Yamashita Yuma | Curandeiro Sacerdote | 3-D
-Nº 219 | Ishikawa Yuma | Mago Elemental (Fogo) | 3-E
-Nº 220 | Nakajima Yuma | Invocador Espiritual | 1-A
-Nº 221 | Maeda Yuma | Curandeiro Sacerdote | 1-B
-Nº 222 | Fujita Yuma | Curandeiro Sacerdote | 1-C
-Nº 223 | Ogawa Yuma | Curandeiro Sacerdote | 1-D
-Nº 224 | Okada Yuma | Mago Elemental (Gelo) | 1-E
-Nº 225 | Hasegawa Yuma | Invocador Espiritual | 2-A
-Nº 226 | Murakami Yuma | Curandeiro Sacerdote | 2-B
-Nº 227 | Kondo Yuma | Invocador Espiritual | 2-C
-Nº 228 | Ishii Yuma | Barreira Rúnica | 2-D
-Nº 229 | Sakamoto Yuma | Mago Elemental (Fogo) | 2-E
-Nº 230 | Endo Yuma | Mago Elemental (Gelo) | 3-A
-Nº 231 | Aoki Yuma | Barreira Rúnica | 3-B
-Nº 232 | Fujii Yuma | Invocador Espiritual | 3-C
-Nº 233 | Nishimura Yuma | Mago Elemental (Fogo) | 3-D
-Nº 234 | Tanaka Itsuki | Rastreador de Longa Distância | 3-E
-Nº 235 | Watanabe Itsuki | Invocador Espiritual | 1-A
-Nº 236 | Yamamoto Itsuki | Curandeiro Sacerdote | 1-B
-Nº 237 | Nakamura Itsuki | Mago Elemental (Gelo) | 1-C
-Nº 238 | Kobayashi Itsuki | Mago Elemental (Fogo) | 1-D
-Nº 239 | Kato Itsuki | Mago Elemental (Gelo) | 1-E
-Nº 240 | Yoshida Itsuki | Mago Elemental (Fogo) | 2-A
-Nº 241 | Yamada Itsuki | Invocador Espiritual | 2-B
-Nº 242 | Sasaki Itsuki | Mago Elemental (Gelo) | 2-C
-Nº 243 | Yamaguchi Itsuki | Curandeiro Sacerdote | 2-D
-Nº 244 | Matsumoto Itsuki | Mago Elemental (Gelo) | 2-E
-Nº 245 | Inoue Itsuki | Curandeiro Sacerdote | 3-A
-Nº 246 | Kimura Itsuki | Curandeiro Sacerdote | 3-B
-Nº 247 | Hayashi Itsuki | Curandeiro Sacerdote | 3-C
-Nº 248 | Shimizu Itsuki | Curandeiro Sacerdote | 3-D
-Nº 249 | Yamazaki Itsuki | Curandeiro Sacerdote | 3-E
-Nº 250 | Mori Itsuki | Invocador Espiritual | 1-A
-Nº 251 | Abe Itsuki | Invocador Espiritual | 1-B
-Nº 252 | Ikeda Itsuki | Curandeiro Sacerdote | 1-C
-Nº 253 | Hashimoto Itsuki | Mago Elemental (Fogo) | 1-D
-Nº 254 | Yamashita Itsuki | Curandeiro Sacerdote | 1-E
-Nº 255 | Ishikawa Itsuki | Mago Elemental (Fogo) | 2-A
-Nº 256 | Nakajima Itsuki | Alquimista de Suprimentos | 2-B
-Nº 257 | Maeda Itsuki | Domador de Feras | 2-C
-Nº 258 | Fujita Itsuki | Domador de Feras | 2-D
-Nº 259 | Ogawa Itsuki | Artífice / Carpinteiro | 2-E
-Nº 260 | Okada Itsuki | Tecelão de Proteção | 3-A
-Nº 261 | Hasegawa Itsuki | Alquimista de Suprimentos | 3-B
-Nº 262 | Murakami Itsuki | Cozinheiro de Status | 3-C
-Nº 263 | Kondo Itsuki | Artífice / Carpinteiro | 3-D
-Nº 264 | Ishii Itsuki | Cozinheiro de Status | 3-E
-Nº 265 | Sakamoto Itsuki | Alquimista de Suprimentos | 1-A
-Nº 266 | Endo Itsuki | Ferreiro Rúnico | 1-B
-Nº 267 | Aoki Itsuki | Ferreiro Rúnico | 1-C
-Nº 268 | Fujii Itsuki | Geomante de Campo | 1-D
-Nº 269 | Nishimura Itsuki | Domador de Feras | 1-E
-Nº 270 | Tanaka Kaito | Cozinheiro de Status | 2-A
-Nº 271 | Watanabe Kaito | Geomante de Campo | 2-B
-Nº 272 | Yamamoto Kaito | Ferreiro Rúnico | 2-C
-Nº 273 | Nakamura Kaito | Domador de Feras | 2-D
-Nº 274 | Kobayashi Kaito | Alquimista de Suprimentos | 2-E
-Nº 275 | Kato Kaito | Cozinheiro de Status | 3-A
-Nº 276 | Yoshida Kaito | Artífice / Carpinteiro | 3-B
-Nº 277 | Yamada Kaito | Ferreiro Rúnico | 3-C
-Nº 278 | Sasaki Kaito | Domador de Feras | 3-D
-Nº 279 | Yamaguchi Kaito | Alquimista de Suprimentos | 3-E
-Nº 280 | Matsumoto Kaito | Artífice / Carpinteiro | 1-A
-Nº 281 | Inoue Kaito | Alquimista de Suprimentos | 1-B
-Nº 282 | Kimura Kaito | Ferreiro Rúnico | 1-C
-Nº 283 | Hayashi Kaito | Cozinheiro de Status | 1-D
-Nº 284 | Shimizu Kaito | Alquimista de Suprimentos | 1-E
-Nº 285 | Yamazaki Kaito | Tecelão de Proteção | 2-A
-Nº 286 | Mori Kaito | Cozinheiro de Status | 2-B
-Nº 287 | Abe Kaito | Tecelão de Proteção | 2-C
-Nº 288 | Ikeda Kaito | Domador de Feras | 2-D
-Nº 289 | Hashimoto Kaito | Cozinheiro de Status | 2-E
-Nº 290 | Yamashita Kaito | Tecelão de Proteção | 3-A
-Nº 291 | Ishikawa Kaito | Domador de Feras | 3-B
-Nº 292 | Nakajima Kaito | Alquimista de Suprimentos | 3-C
-Nº 293 | Maeda Kaito | Alquimista de Suprimentos | 3-D
-Nº 294 | Fujita Kaito | Artífice / Carpinteiro | 3-E
-Nº 295 | Ogawa Kaito | Artífice / Carpinteiro | 1-A
-Nº 296 | Okada Kaito | Alquimista de Suprimentos | 1-B
-Nº 297 | Hasegawa Kaito | Alquimista de Suprimentos | 1-C
-Nº 298 | Murakami Kaito | Cozinheiro de Status | 1-D
-Nº 299 | Kondo Kaito | Alquimista de Suprimentos | 1-E
-Nº 300 | Ishii Kaito | Domador de Feras | 2-A
-Nº 301 | Sakamoto Kaito | Tecelão de Proteção | 2-B
-Nº 302 | Endo Kaito | Domador de Feras | 2-C
-Nº 303 | Aoki Kaito | Cozinheiro de Status | 2-D
-Nº 304 | Fujii Kaito | Domador de Feras | 2-E
-Nº 305 | Nishimura Kaito | Domador de Feras | 3-A
-Nº 306 | Tanaka Asahi | Ferreiro Rúnico | 3-B
-Nº 307 | Watanabe Asahi | Artífice / Carpinteiro | 3-C
-Nº 308 | Yamamoto Asahi | Domador de Feras | 3-D
-Nº 309 | Nakamura Asahi | Alquimista de Suprimentos | 3-E
-Nº 310 | Kobayashi Asahi | Artífice / Carpinteiro | 1-A
-Nº 311 | Kato Asahi | Cozinheiro de Status | 1-B
-Nº 312 | Yoshida Asahi | Ferreiro Rúnico | 1-C
-Nº 313 | Yamada Asahi | Alquimista de Suprimentos | 1-D
-Nº 314 | Sasaki Asahi | Cozinheiro de Status | 1-E
-Nº 315 | Yamaguchi Asahi | Alquimista de Suprimentos | 2-A
-Nº 316 | Matsumoto Asahi | Ferreiro Rúnico | 2-B
-Nº 317 | Inoue Asahi | Alquimista de Suprimentos | 2-C
-Nº 318 | Kimura Asahi | Cozinheiro de Status | 2-D
-Nº 319 | Hayashi Asahi | Ferreiro Rúnico | 2-E
-Nº 320 | Shimizu Asahi | Alquimista de Suprimentos | 3-A
-Nº 321 | Yamazaki Asahi | Tecelão de Proteção | 3-B
-Nº 322 | Mori Asahi | Domador de Feras | 3-C
-Nº 323 | Abe Asahi | Ferreiro Rúnico | 3-D
-Nº 324 | Ikeda Asahi | Ferreiro Rúnico | 3-E
-Nº 325 | Hashimoto Asahi | Alquimista de Suprimentos | 1-A
-Nº 326 | Yamashita Asahi | Domador de Feras | 1-B
-Nº 327 | Ishikawa Asahi | Domador de Feras | 1-C
-Nº 328 | Nakajima Asahi | Ferreiro Rúnico | 1-D
-Nº 329 | Maeda Asahi | Domador de Feras | 1-E
-Nº 330 | Fujita Asahi | Ferreiro Rúnico | 2-A
-Nº 331 | Ogawa Asahi | Ferreiro Rúnico | 2-B
-Nº 332 | Okada Asahi | Cozinheiro de Status | 2-C
-Nº 333 | Hasegawa Asahi | Cozinheiro de Status | 2-D
-Nº 334 | Murakami Asahi | Geomante de Campo | 2-E
-Nº 335 | Kondo Asahi | Cozinheiro de Status | 3-A
-Nº 336 | Ishii Asahi | Tecelão de Proteção | 3-B
-Nº 337 | Sakamoto Asahi | Geomante de Campo | 3-C
-Nº 338 | Endo Asahi | Cozinheiro de Status | 3-D
-Nº 339 | Aoki Asahi | Ferreiro Rúnico | 3-E
-Nº 340 | Fujii Asahi | Artífice / Carpinteiro | 1-A
-Nº 341 | Nishimura Asahi | Cozinheiro de Status | 1-B
-Nº 342 | Tanaka Riku | Tecelão de Proteção | 1-C
-Nº 343 | Watanabe Riku | Domador de Feras | 1-D
-Nº 344 | Yamamoto Riku | Domador de Feras | 1-E
-Nº 345 | Nakamura Riku | Artífice / Carpinteiro | 2-A
-Nº 346 | Kobayashi Riku | Alquimista de Suprimentos | 2-B
-Nº 347 | Kato Riku | Ferreiro Rúnico | 2-C
-Nº 348 | Yoshida Riku | Alquimista de Suprimentos | 2-D
-Nº 349 | Yamada Riku | Cozinheiro de Status | 2-E
-Nº 350 | Sasaki Riku | Artífice / Carpinteiro | 3-A
-Nº 351 | Yamaguchi Riku | Geomante de Campo | 3-B
-Nº 352 | Matsumoto Riku | Cozinheiro de Status | 3-C
-Nº 353 | Inoue Riku | Artífice / Carpinteiro | 3-D
-Nº 354 | Kimura Riku | Alquimista de Suprimentos | 3-E
-Nº 355 | Hayashi Riku | Tecelão de Proteção | 1-A
-Nº 356 | Shimizu Riku | Domador de Feras | 1-B
-Nº 357 | Yamazaki Riku | Cozinheiro de Status | 1-C
-Nº 358 | Mori Riku | Cozinheiro de Status | 1-D
-Nº 359 | Abe Riku | Cozinheiro de Status | 1-E
-Nº 360 | Ikeda Riku | Artífice / Carpinteiro | 2-A
-Nº 361 | Hashimoto Riku | Cozinheiro de Status | 2-B
-Nº 362 | Yamashita Riku | Ferreiro Rúnico | 2-C
-Nº 363 | Ishikawa Riku | Ferreiro Rúnico | 2-D
-Nº 364 | Nakajima Riku | Alquimista de Suprimentos | 2-E
-Nº 365 | Maeda Riku | Alquimista de Suprimentos | 3-A
-Nº 366 | Fujita Riku | Domador de Feras | 3-B
-Nº 367 | Ogawa Riku | Alquimista de Suprimentos | 3-C
-Nº 368 | Okada Riku | Ferreiro Rúnico | 3-D
-Nº 369 | Hasegawa Riku | Artífice / Carpinteiro | 3-E
-Nº 370 | Murakami Riku | Cozinheiro de Status | 1-A
-Nº 371 | Kondo Riku | Cozinheiro de Status | 1-B
-Nº 372 | Ishii Riku | Domador de Feras | 1-C
-Nº 373 | Sakamoto Riku | Domador de Feras | 1-D
-Nº 374 | Endo Riku | Alquimista de Suprimentos | 1-E
-Nº 375 | Aoki Riku | Alquimista de Suprimentos | 2-A
+Nº 001 | Saito Kenji | Idade: 18 anos | Data de Nascimento: 15/03/2008 | Peso: 72 kg | Tamanho: 1.78m | Série: 3-A | Classe: Paladino Sacerdote | Atuação: Comando Supremo (Presidência Geral)
+Nº 002 | Murakami Daigo | Idade: 18 anos | Data de Nascimento: 22/07/2008 | Peso: 75 kg | Tamanho: 1.82m | Série: 3-B | Classe: Escudeiro Pesado | Atuação: Líder de Ano (Poder Judiciário / Defesa)
+Nº 003 | Matsuda Shizuka | Idade: 17 anos | Data de Nascimento: 05/11/2008 | Peso: 52 kg | Tamanho: 1.63m | Série: 3-C | Classe: Invocador Espiritual | Atuação: Líder de Ano (Poder Judiciário / Ordem)
+Nº 004 | Tanaka Kazuma | Idade: 18 anos | Data de Nascimento: 30/01/2008 | Peso: 68 kg | Tamanho: 1.75m | Série: 3-D | Classe: Geomante de Campo | Atuação: Líder de Ano (Poder Judiciário / Obras)
+Nº 005 | Livia Matsui | Idade: 17 anos | Data de Nascimento: 14/05/2009 | Peso: 54 kg | Tamanho: 1.65m | Série: 2-B | Classe: Analista Tática | Atuação: Líder de Ano (Vanguarda / Estratégia)
+Nº 006 | Kevin Silva | Idade: 17 anos | Data de Nascimento: 02/09/2009 | Peso: 78 kg | Tamanho: 1.85m | Série: 2-B | Classe: Guerreiro de Montante | Atuação: Líder de Ano (Vanguarda / Ataque)
+Nº 007 | Ren Tachibana | Idade: 17 anos | Data de Nascimento: 19/12/2009 | Peso: 63 kg | Tamanho: 1.72m | Série: 2-B | Classe: Assassino / Rastreador | Atuação: Líder de Ano (Vanguarda / Reconhecimento)
+Nº 008 | Asuka Tanaka | Idade: 16 anos | Data de Nascimento: 08/04/2010 | Peso: 50 kg | Tamanho: 1.60m | Série: 1-A | Classe: Alquimista de Suprimentos | Atuação: Líder de Ano (Logística / Distribuição)
+Nº 009 | Hina Miura | Idade: 15 anos | Data de Nascimento: 27/10/2011 | Peso: 49 kg | Tamanho: 1.58m | Série: 1-C | Classe: Curandeiro Sacerdote | Atuação: Líder de Ano (Logística / Triagem Médica)
+Nº 010 | Sora Abe | Idade: 16 anos | Data de Nascimento: 11/01/2010 | Peso: 55 kg | Tamanho: 1.68m | Série: 1-D | Classe: Rastreador de Longa Distância | Atuação: Líder de Ano (Logística / Comunicação)
+Nº 011 | Sasaki Asahi | Idade: 18 anos | Data de Nascimento: 26/10/2008 | Peso: 50 kg | Tamanho: 1.66m | Série: 3-E | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 012 | Kobayashi Hinata | Idade: 18 anos | Data de Nascimento: 03/09/2008 | Peso: 69 kg | Tamanho: 1.55m | Série: 3-B | Classe: Duelista | Atuação: Linha de Frente
+Nº 013 | Fukuda Genta | Idade: 17 anos | Data de Nascimento: 14/06/2009 | Peso: 77 kg | Tamanho: 1.78m | Série: 2-B | Classe: Duelista | Atuação: Linha de Frente
+Nº 014 | Nakamura Chiyo | Idade: 18 anos | Data de Nascimento: 21/05/2008 | Peso: 82 kg | Tamanho: 1.81m | Série: 3-D | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 015 | Ikeda Shizuka | Idade: 16 anos | Data de Nascimento: 28/04/2010 | Peso: 53 kg | Tamanho: 1.64m | Série: 1-C | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 016 | Suzuki Sakura | Idade: 16 anos | Data de Nascimento: 11/01/2010 | Peso: 79 kg | Tamanho: 1.83m | Série: 1-C | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 017 | Fukuda Haruto | Idade: 17 anos | Data de Nascimento: 12/05/2009 | Peso: 69 kg | Tamanho: 1.64m | Série: 2-A | Classe: Berserk | Atuação: Linha de Frente
+Nº 018 | Kimura Livia | Idade: 15 anos | Data de Nascimento: 17/04/2011 | Peso: 53 kg | Tamanho: 1.63m | Série: 1-C | Classe: Duelista | Atuação: Linha de Frente
+Nº 019 | Fukuda Taichi | Idade: 16 anos | Data de Nascimento: 21/12/2010 | Peso: 79 kg | Tamanho: 1.70m | Série: 1-C | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 020 | Silva Hina | Idade: 18 anos | Data de Nascimento: 08/07/2008 | Peso: 63 kg | Tamanho: 1.65m | Série: 3-E | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 021 | Endo Yui | Idade: 16 anos | Data de Nascimento: 14/12/2010 | Peso: 83 kg | Tamanho: 1.66m | Série: 1-D | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 022 | Kondo Shizuka | Idade: 17 anos | Data de Nascimento: 10/05/2009 | Peso: 62 kg | Tamanho: 1.59m | Série: 2-A | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 023 | Nakagawa Asahi | Idade: 17 anos | Data de Nascimento: 24/09/2009 | Peso: 59 kg | Tamanho: 1.61m | Série: 2-A | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 024 | Yamazaki Livia | Idade: 18 anos | Data de Nascimento: 24/10/2008 | Peso: 81 kg | Tamanho: 1.75m | Série: 3-C | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 025 | Inoue Hina | Idade: 15 anos | Data de Nascimento: 12/03/2011 | Peso: 67 kg | Tamanho: 1.55m | Série: 1-E | Classe: Berserk | Atuação: Linha de Frente
+Nº 026 | Abe Livia | Idade: 17 anos | Data de Nascimento: 02/01/2009 | Peso: 83 kg | Tamanho: 1.65m | Série: 2-C | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 027 | Ota Mei | Idade: 15 anos | Data de Nascimento: 28/01/2011 | Peso: 84 kg | Tamanho: 1.64m | Série: 1-E | Classe: Duelista | Atuação: Linha de Frente
+Nº 028 | Shimizu Aoi | Idade: 18 anos | Data de Nascimento: 06/01/2008 | Peso: 64 kg | Tamanho: 1.86m | Série: 3-D | Classe: Duelista | Atuação: Linha de Frente
+Nº 029 | Miura Eita | Idade: 18 anos | Data de Nascimento: 13/08/2008 | Peso: 52 kg | Tamanho: 1.74m | Série: 3-E | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 030 | Tanaka Itsuki | Idade: 18 anos | Data de Nascimento: 05/10/2008 | Peso: 67 kg | Tamanho: 1.58m | Série: 3-A | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 031 | Miura Mio | Idade: 18 anos | Data de Nascimento: 20/10/2008 | Peso: 62 kg | Tamanho: 1.81m | Série: 3-A | Classe: Duelista | Atuação: Linha de Frente
+Nº 032 | Shimizu Riko | Idade: 17 anos | Data de Nascimento: 10/10/2009 | Peso: 75 kg | Tamanho: 1.65m | Série: 2-A | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 033 | Tanaka Kouki | Idade: 15 anos | Data de Nascimento: 21/04/2011 | Peso: 64 kg | Tamanho: 1.77m | Série: 1-B | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 034 | Suzuki Sho | Idade: 15 anos | Data de Nascimento: 06/01/2011 | Peso: 74 kg | Tamanho: 1.70m | Série: 1-B | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 035 | Yamazaki Hina | Idade: 18 anos | Data de Nascimento: 02/04/2008 | Peso: 66 kg | Tamanho: 1.78m | Série: 3-E | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 036 | Kondo Kaito | Idade: 17 anos | Data de Nascimento: 22/04/2009 | Peso: 64 kg | Tamanho: 1.81m | Série: 2-D | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 037 | Ishikawa Takuya | Idade: 17 anos | Data de Nascimento: 14/02/2009 | Peso: 82 kg | Tamanho: 1.62m | Série: 2-A | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 038 | Yamaguchi Ryu | Idade: 15 anos | Data de Nascimento: 02/03/2011 | Peso: 67 kg | Tamanho: 1.75m | Série: 1-A | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 039 | Ogawa Riko | Idade: 15 anos | Data de Nascimento: 15/12/2011 | Peso: 67 kg | Tamanho: 1.78m | Série: 1-A | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 040 | Takahashi Kasumi | Idade: 17 anos | Data de Nascimento: 16/08/2009 | Peso: 53 kg | Tamanho: 1.75m | Série: 2-C | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 041 | Ishii Nanami | Idade: 16 anos | Data de Nascimento: 01/02/2010 | Peso: 62 kg | Tamanho: 1.87m | Série: 1-C | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 042 | Aoki Kazuma | Idade: 18 anos | Data de Nascimento: 25/11/2008 | Peso: 65 kg | Tamanho: 1.74m | Série: 3-D | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 043 | Okada Sho | Idade: 17 anos | Data de Nascimento: 16/09/2009 | Peso: 76 kg | Tamanho: 1.85m | Série: 2-A | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 044 | Ishikawa Yuki | Idade: 16 anos | Data de Nascimento: 03/08/2010 | Peso: 70 kg | Tamanho: 1.68m | Série: 1-D | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 045 | Kobayashi Genta | Idade: 17 anos | Data de Nascimento: 28/03/2009 | Peso: 69 kg | Tamanho: 1.69m | Série: 2-E | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 046 | Ogawa Aika | Idade: 18 anos | Data de Nascimento: 27/09/2008 | Peso: 50 kg | Tamanho: 1.70m | Série: 3-B | Classe: Paladino | Atuação: Linha de Frente
+Nº 047 | Sakamoto Nanami | Idade: 17 anos | Data de Nascimento: 04/07/2009 | Peso: 80 kg | Tamanho: 1.82m | Série: 2-D | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 048 | Kobayashi Kasumi | Idade: 18 anos | Data de Nascimento: 15/07/2008 | Peso: 51 kg | Tamanho: 1.61m | Série: 3-B | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 049 | Nishimura Miku | Idade: 16 anos | Data de Nascimento: 25/01/2010 | Peso: 61 kg | Tamanho: 1.64m | Série: 1-A | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 050 | Kimura Mei | Idade: 15 anos | Data de Nascimento: 01/11/2011 | Peso: 63 kg | Tamanho: 1.78m | Série: 1-C | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 051 | Maeda Daigo | Idade: 16 anos | Data de Nascimento: 03/04/2010 | Peso: 55 kg | Tamanho: 1.70m | Série: 1-B | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 052 | Okamoto Itsuki | Idade: 16 anos | Data de Nascimento: 23/05/2010 | Peso: 80 kg | Tamanho: 1.78m | Série: 1-D | Classe: Duelista | Atuação: Linha de Frente
+Nº 053 | Yamazaki Yui | Idade: 18 anos | Data de Nascimento: 08/08/2008 | Peso: 83 kg | Tamanho: 1.60m | Série: 3-B | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 054 | Ito Kamiko | Idade: 15 anos | Data de Nascimento: 28/02/2011 | Peso: 65 kg | Tamanho: 1.80m | Série: 1-A | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 055 | Yoshida Sara | Idade: 17 anos | Data de Nascimento: 09/01/2009 | Peso: 66 kg | Tamanho: 1.79m | Série: 2-C | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 056 | Ishikawa Mei | Idade: 18 anos | Data de Nascimento: 28/03/2008 | Peso: 76 kg | Tamanho: 1.73m | Série: 3-C | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 057 | Yoshida Kasumi | Idade: 18 anos | Data de Nascimento: 13/08/2008 | Peso: 68 kg | Tamanho: 1.84m | Série: 3-D | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 058 | Suzuki Mana | Idade: 15 anos | Data de Nascimento: 28/07/2011 | Peso: 50 kg | Tamanho: 1.65m | Série: 1-D | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 059 | Hasegawa Ruka | Idade: 17 anos | Data de Nascimento: 13/11/2009 | Peso: 57 kg | Tamanho: 1.71m | Série: 2-E | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 060 | Abe Sara | Idade: 16 anos | Data de Nascimento: 28/02/2010 | Peso: 76 kg | Tamanho: 1.58m | Série: 1-C | Classe: Duelista | Atuação: Linha de Frente
+Nº 061 | Saito Ryu | Idade: 16 anos | Data de Nascimento: 28/11/2010 | Peso: 57 kg | Tamanho: 1.57m | Série: 1-A | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 062 | Yoshida Kana | Idade: 17 anos | Data de Nascimento: 21/02/2009 | Peso: 69 kg | Tamanho: 1.83m | Série: 2-B | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 063 | Kato Ruka | Idade: 17 anos | Data de Nascimento: 11/11/2009 | Peso: 79 kg | Tamanho: 1.84m | Série: 2-C | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 064 | Nishimura Eita | Idade: 15 anos | Data de Nascimento: 21/11/2011 | Peso: 66 kg | Tamanho: 1.88m | Série: 1-A | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 065 | Silva Yuki | Idade: 17 anos | Data de Nascimento: 04/11/2009 | Peso: 54 kg | Tamanho: 1.70m | Série: 2-C | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 066 | Hayashi Kevin | Idade: 18 anos | Data de Nascimento: 02/06/2008 | Peso: 51 kg | Tamanho: 1.65m | Série: 3-E | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 067 | Ikeda Ryu | Idade: 17 anos | Data de Nascimento: 08/09/2009 | Peso: 74 kg | Tamanho: 1.74m | Série: 2-A | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 068 | Nakamura Kazuki | Idade: 15 anos | Data de Nascimento: 03/10/2011 | Peso: 72 kg | Tamanho: 1.75m | Série: 1-C | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 069 | Fukuda Ryu | Idade: 17 anos | Data de Nascimento: 08/08/2009 | Peso: 64 kg | Tamanho: 1.70m | Série: 2-C | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 070 | Saito Sakura | Idade: 18 anos | Data de Nascimento: 10/11/2008 | Peso: 82 kg | Tamanho: 1.60m | Série: 3-B | Classe: Duelista | Atuação: Linha de Frente
+Nº 071 | Fujii Hime | Idade: 17 anos | Data de Nascimento: 21/07/2009 | Peso: 64 kg | Tamanho: 1.70m | Série: 2-D | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 072 | Inoue Mana | Idade: 18 anos | Data de Nascimento: 28/08/2008 | Peso: 54 kg | Tamanho: 1.63m | Série: 3-E | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 073 | Fujii Hina | Idade: 16 anos | Data de Nascimento: 01/11/2010 | Peso: 73 kg | Tamanho: 1.64m | Série: 1-E | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 074 | Sasaki Ryo | Idade: 16 anos | Data de Nascimento: 27/05/2010 | Peso: 62 kg | Tamanho: 1.75m | Série: 1-D | Classe: Paladino | Atuação: Linha de Frente
+Nº 075 | Mori Hayato | Idade: 16 anos | Data de Nascimento: 22/12/2010 | Peso: 56 kg | Tamanho: 1.76m | Série: 1-D | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 076 | Okamoto Sora | Idade: 17 anos | Data de Nascimento: 10/08/2009 | Peso: 50 kg | Tamanho: 1.74m | Série: 2-D | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 077 | Abe Riku | Idade: 16 anos | Data de Nascimento: 11/12/2010 | Peso: 74 kg | Tamanho: 1.61m | Série: 1-A | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 078 | Kato Rin | Idade: 16 anos | Data de Nascimento: 27/03/2010 | Peso: 64 kg | Tamanho: 1.85m | Série: 1-D | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 079 | Ogawa Aoi | Idade: 18 anos | Data de Nascimento: 26/02/2008 | Peso: 77 kg | Tamanho: 1.87m | Série: 3-D | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 080 | Okada Shin | Idade: 17 anos | Data de Nascimento: 28/11/2009 | Peso: 73 kg | Tamanho: 1.87m | Série: 2-D | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 081 | Endo Riku | Idade: 18 anos | Data de Nascimento: 26/07/2008 | Peso: 48 kg | Tamanho: 1.64m | Série: 3-C | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 082 | Kondo Hinata | Idade: 17 anos | Data de Nascimento: 22/12/2009 | Peso: 64 kg | Tamanho: 1.74m | Série: 2-A | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 083 | Ota Hinata | Idade: 15 anos | Data de Nascimento: 22/04/2011 | Peso: 78 kg | Tamanho: 1.56m | Série: 1-D | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 084 | Nakagawa Shin | Idade: 15 anos | Data de Nascimento: 21/08/2011 | Peso: 67 kg | Tamanho: 1.76m | Série: 1-C | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 085 | Abe Sora | Idade: 17 anos | Data de Nascimento: 02/05/2009 | Peso: 79 kg | Tamanho: 1.59m | Série: 2-D | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 086 | Kato Sota | Idade: 16 anos | Data de Nascimento: 15/06/2010 | Peso: 82 kg | Tamanho: 1.69m | Série: 1-A | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 087 | Matsumoto Itsuki | Idade: 17 anos | Data de Nascimento: 14/11/2009 | Peso: 54 kg | Tamanho: 1.83m | Série: 2-E | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 088 | Yamamoto Livia | Idade: 15 anos | Data de Nascimento: 23/06/2011 | Peso: 61 kg | Tamanho: 1.70m | Série: 1-E | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 089 | Endo Kouki | Idade: 16 anos | Data de Nascimento: 18/11/2010 | Peso: 70 kg | Tamanho: 1.57m | Série: 1-E | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 090 | Inoue Asahi | Idade: 17 anos | Data de Nascimento: 28/08/2009 | Peso: 53 kg | Tamanho: 1.77m | Série: 2-E | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 091 | Ota Kazuma | Idade: 17 anos | Data de Nascimento: 02/06/2009 | Peso: 63 kg | Tamanho: 1.88m | Série: 2-C | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 092 | Yamada Eita | Idade: 17 anos | Data de Nascimento: 27/09/2009 | Peso: 61 kg | Tamanho: 1.74m | Série: 2-B | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 093 | Mori Yuka | Idade: 15 anos | Data de Nascimento: 26/10/2011 | Peso: 48 kg | Tamanho: 1.64m | Série: 1-E | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 094 | Abe Kasumi | Idade: 16 anos | Data de Nascimento: 26/03/2010 | Peso: 55 kg | Tamanho: 1.77m | Série: 1-E | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 095 | Abe Daigo | Idade: 18 anos | Data de Nascimento: 12/04/2008 | Peso: 85 kg | Tamanho: 1.66m | Série: 3-D | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 096 | Sakamoto Ryo | Idade: 15 anos | Data de Nascimento: 24/07/2011 | Peso: 81 kg | Tamanho: 1.59m | Série: 1-E | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 097 | Yamazaki Suzu | Idade: 17 anos | Data de Nascimento: 25/06/2009 | Peso: 80 kg | Tamanho: 1.75m | Série: 2-D | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 098 | Takahashi Shin | Idade: 17 anos | Data de Nascimento: 20/01/2009 | Peso: 81 kg | Tamanho: 1.65m | Série: 2-B | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 099 | Murakami Yusei | Idade: 17 anos | Data de Nascimento: 16/07/2009 | Peso: 75 kg | Tamanho: 1.78m | Série: 2-A | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 100 | Hasegawa Riko | Idade: 15 anos | Data de Nascimento: 03/06/2011 | Peso: 57 kg | Tamanho: 1.57m | Série: 1-B | Classe: Paladino | Atuação: Linha de Frente
+Nº 101 | Nishimura Nanami | Idade: 18 anos | Data de Nascimento: 13/10/2008 | Peso: 81 kg | Tamanho: 1.65m | Série: 3-B | Classe: Berserk | Atuação: Linha de Frente
+Nº 102 | Ito Yuki | Idade: 18 anos | Data de Nascimento: 04/12/2008 | Peso: 55 kg | Tamanho: 1.83m | Série: 3-B | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 103 | Hina Haruto | Idade: 18 anos | Data de Nascimento: 14/08/2008 | Peso: 62 kg | Tamanho: 1.69m | Série: 3-A | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 104 | Kondo Aika | Idade: 18 anos | Data de Nascimento: 14/12/2008 | Peso: 54 kg | Tamanho: 1.65m | Série: 3-B | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 105 | Kobayashi Tsubasa | Idade: 17 anos | Data de Nascimento: 12/03/2009 | Peso: 78 kg | Tamanho: 1.57m | Série: 2-C | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 106 | Tachibana Hinata | Idade: 15 anos | Data de Nascimento: 18/01/2011 | Peso: 85 kg | Tamanho: 1.87m | Série: 1-A | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 107 | Yoshida Asahi | Idade: 18 anos | Data de Nascimento: 14/06/2008 | Peso: 75 kg | Tamanho: 1.84m | Série: 3-E | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 108 | Tanaka Asuka | Idade: 17 anos | Data de Nascimento: 20/05/2009 | Peso: 70 kg | Tamanho: 1.58m | Série: 2-A | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 109 | Yamada Itsuki | Idade: 18 anos | Data de Nascimento: 22/08/2008 | Peso: 62 kg | Tamanho: 1.83m | Série: 3-C | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 110 | Maeda Hinata | Idade: 18 anos | Data de Nascimento: 04/05/2008 | Peso: 84 kg | Tamanho: 1.62m | Série: 3-E | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 111 | Maeda Kevin | Idade: 18 anos | Data de Nascimento: 20/11/2008 | Peso: 65 kg | Tamanho: 1.56m | Série: 3-B | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 112 | Kimura Wakana | Idade: 18 anos | Data de Nascimento: 11/06/2008 | Peso: 48 kg | Tamanho: 1.61m | Série: 3-B | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 113 | Aoki Aika | Idade: 17 anos | Data de Nascimento: 03/03/2009 | Peso: 49 kg | Tamanho: 1.58m | Série: 2-E | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 114 | Yamada Ruka | Idade: 17 anos | Data de Nascimento: 14/08/2009 | Peso: 69 kg | Tamanho: 1.60m | Série: 2-C | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 115 | Matsumoto Nanami | Idade: 17 anos | Data de Nascimento: 25/10/2009 | Peso: 53 kg | Tamanho: 1.84m | Série: 2-B | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 116 | Watanabe Ryo | Idade: 17 anos | Data de Nascimento: 22/02/2009 | Peso: 65 kg | Tamanho: 1.70m | Série: 2-E | Classe: Duelista | Atuação: Linha de Frente
+Nº 117 | Fukuda Riko | Idade: 18 anos | Data de Nascimento: 14/05/2008 | Peso: 61 kg | Tamanho: 1.80m | Série: 3-B | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 118 | Fujii Yuki | Idade: 17 anos | Data de Nascimento: 04/05/2009 | Peso: 85 kg | Tamanho: 1.71m | Série: 2-D | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 119 | Hayashi Sora | Idade: 15 anos | Data de Nascimento: 13/10/2011 | Peso: 51 kg | Tamanho: 1.55m | Série: 1-E | Classe: Paladino | Atuação: Linha de Frente
+Nº 120 | Yamada Sota | Idade: 17 anos | Data de Nascimento: 25/05/2009 | Peso: 66 kg | Tamanho: 1.66m | Série: 2-A | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 121 | Fukuda Yuki | Idade: 15 anos | Data de Nascimento: 05/07/2011 | Peso: 82 kg | Tamanho: 1.78m | Série: 1-A | Classe: Berserk | Atuação: Linha de Frente
+Nº 122 | Maeda Akari | Idade: 18 anos | Data de Nascimento: 03/07/2008 | Peso: 50 kg | Tamanho: 1.69m | Série: 3-C | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 123 | Matsui Rei | Idade: 16 anos | Data de Nascimento: 19/07/2010 | Peso: 74 kg | Tamanho: 1.65m | Série: 1-E | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 124 | Murakami Nanami | Idade: 15 anos | Data de Nascimento: 26/10/2011 | Peso: 77 kg | Tamanho: 1.82m | Série: 1-A | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 125 | Tachibana Taiga | Idade: 18 anos | Data de Nascimento: 14/10/2008 | Peso: 73 kg | Tamanho: 1.72m | Série: 3-A | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 126 | Hayashi Aoi | Idade: 17 anos | Data de Nascimento: 08/06/2009 | Peso: 58 kg | Tamanho: 1.58m | Série: 2-E | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 127 | Miura Sayuri | Idade: 17 anos | Data de Nascimento: 17/04/2009 | Peso: 70 kg | Tamanho: 1.67m | Série: 2-D | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 128 | Fujiwara Taichi | Idade: 17 anos | Data de Nascimento: 04/03/2009 | Peso: 64 kg | Tamanho: 1.62m | Série: 2-A | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 129 | Fujiwara Kaito | Idade: 18 anos | Data de Nascimento: 06/11/2008 | Peso: 79 kg | Tamanho: 1.70m | Série: 3-E | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 130 | Okada Suzu | Idade: 17 anos | Data de Nascimento: 22/10/2009 | Peso: 68 kg | Tamanho: 1.84m | Série: 2-C | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 131 | Nakagawa Itsuki | Idade: 18 anos | Data de Nascimento: 15/02/2008 | Peso: 78 kg | Tamanho: 1.70m | Série: 3-B | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 132 | Yamaguchi Yusei | Idade: 18 anos | Data de Nascimento: 12/09/2008 | Peso: 52 kg | Tamanho: 1.65m | Série: 3-D | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 133 | Matsuda Yusei | Idade: 17 anos | Data de Nascimento: 12/05/2009 | Peso: 52 kg | Tamanho: 1.76m | Série: 2-C | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 134 | Silva Sara | Idade: 17 anos | Data de Nascimento: 13/08/2009 | Peso: 85 kg | Tamanho: 1.73m | Série: 2-C | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 135 | Ishii Sora | Idade: 16 anos | Data de Nascimento: 26/10/2010 | Peso: 60 kg | Tamanho: 1.66m | Série: 1-C | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 136 | Takahashi Itsuki | Idade: 15 anos | Data de Nascimento: 15/02/2011 | Peso: 69 kg | Tamanho: 1.87m | Série: 1-D | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 137 | Takahashi Sho | Idade: 15 anos | Data de Nascimento: 08/12/2011 | Peso: 76 kg | Tamanho: 1.88m | Série: 1-E | Classe: Berserk | Atuação: Linha de Frente
+Nº 138 | Hashimoto Daiki | Idade: 16 anos | Data de Nascimento: 12/05/2010 | Peso: 72 kg | Tamanho: 1.68m | Série: 1-A | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 139 | Ota Yuka | Idade: 18 anos | Data de Nascimento: 03/06/2008 | Peso: 54 kg | Tamanho: 1.73m | Série: 3-C | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 140 | Ogawa Tsubasa | Idade: 18 anos | Data de Nascimento: 24/11/2008 | Peso: 57 kg | Tamanho: 1.66m | Série: 3-B | Classe: Berserk | Atuação: Linha de Frente
+Nº 141 | Kobayashi Ryu | Idade: 16 anos | Data de Nascimento: 10/11/2010 | Peso: 73 kg | Tamanho: 1.59m | Série: 1-D | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 142 | Silva Wakana | Idade: 17 anos | Data de Nascimento: 18/07/2009 | Peso: 69 kg | Tamanho: 1.82m | Série: 2-B | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 143 | Kimura Sayuri | Idade: 15 anos | Data de Nascimento: 21/11/2011 | Peso: 75 kg | Tamanho: 1.72m | Série: 1-D | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 144 | Endo Wakana | Idade: 18 anos | Data de Nascimento: 06/04/2008 | Peso: 69 kg | Tamanho: 1.86m | Série: 3-B | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 145 | Inoue Shin | Idade: 17 anos | Data de Nascimento: 05/03/2009 | Peso: 52 kg | Tamanho: 1.65m | Série: 2-D | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 146 | Tachibana Sara | Idade: 15 anos | Data de Nascimento: 22/06/2011 | Peso: 56 kg | Tamanho: 1.75m | Série: 1-B | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 147 | Watanabe Hiroto | Idade: 18 anos | Data de Nascimento: 27/12/2008 | Peso: 58 kg | Tamanho: 1.79m | Série: 3-A | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 148 | Yamamoto Rin | Idade: 18 anos | Data de Nascimento: 22/12/2008 | Peso: 63 kg | Tamanho: 1.87m | Série: 3-D | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 149 | Ogawa Suzu | Idade: 17 anos | Data de Nascimento: 08/09/2009 | Peso: 63 kg | Tamanho: 1.65m | Série: 2-A | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 150 | Yamazaki Hayato | Idade: 18 anos | Data de Nascimento: 12/11/2008 | Peso: 84 kg | Tamanho: 1.87m | Série: 3-C | Classe: Duelista | Atuação: Linha de Frente
+Nº 151 | Hina Asuka | Idade: 18 anos | Data de Nascimento: 25/07/2008 | Peso: 80 kg | Tamanho: 1.72m | Série: 3-A | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 152 | Inoue Sota | Idade: 18 anos | Data de Nascimento: 28/05/2008 | Peso: 51 kg | Tamanho: 1.76m | Série: 3-E | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 153 | Endo Genta | Idade: 18 anos | Data de Nascimento: 23/09/2008 | Peso: 55 kg | Tamanho: 1.64m | Série: 3-C | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 154 | Watanabe Shizuka | Idade: 16 anos | Data de Nascimento: 17/03/2010 | Peso: 75 kg | Tamanho: 1.58m | Série: 1-E | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 155 | Shimizu Misaki | Idade: 17 anos | Data de Nascimento: 01/07/2009 | Peso: 51 kg | Tamanho: 1.68m | Série: 2-C | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 156 | Silva Hinata | Idade: 18 anos | Data de Nascimento: 08/01/2008 | Peso: 68 kg | Tamanho: 1.86m | Série: 3-D | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 157 | Okamoto Yuka | Idade: 18 anos | Data de Nascimento: 26/03/2008 | Peso: 56 kg | Tamanho: 1.56m | Série: 3-D | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 158 | Yamazaki Sota | Idade: 16 anos | Data de Nascimento: 15/10/2010 | Peso: 48 kg | Tamanho: 1.85m | Série: 1-B | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 159 | Sakamoto Haruto | Idade: 15 anos | Data de Nascimento: 18/12/2011 | Peso: 81 kg | Tamanho: 1.69m | Série: 1-C | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 160 | Suzuki Hime | Idade: 18 anos | Data de Nascimento: 04/01/2008 | Peso: 63 kg | Tamanho: 1.69m | Série: 3-E | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 161 | Nishimura Koharu | Idade: 17 anos | Data de Nascimento: 03/02/2009 | Peso: 79 kg | Tamanho: 1.75m | Série: 2-E | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 162 | Ota Kamiko | Idade: 18 anos | Data de Nascimento: 19/04/2008 | Peso: 57 kg | Tamanho: 1.65m | Série: 3-A | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 163 | Nishimura Akari | Idade: 17 anos | Data de Nascimento: 08/10/2009 | Peso: 74 kg | Tamanho: 1.61m | Série: 2-C | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 164 | Silva Sayuri | Idade: 17 anos | Data de Nascimento: 12/02/2009 | Peso: 81 kg | Tamanho: 1.73m | Série: 2-C | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 165 | Takahashi Kazuma | Idade: 16 anos | Data de Nascimento: 28/08/2010 | Peso: 50 kg | Tamanho: 1.76m | Série: 1-B | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 166 | Sakamoto Kazuma | Idade: 18 anos | Data de Nascimento: 12/02/2008 | Peso: 70 kg | Tamanho: 1.63m | Série: 3-C | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 167 | Ota Genta | Idade: 17 anos | Data de Nascimento: 25/10/2009 | Peso: 69 kg | Tamanho: 1.59m | Série: 2-A | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 168 | Kato Aoi | Idade: 15 anos | Data de Nascimento: 27/11/2011 | Peso: 77 kg | Tamanho: 1.87m | Série: 1-D | Classe: Duelista | Atuação: Linha de Frente
+Nº 169 | Ota Hiroto | Idade: 17 anos | Data de Nascimento: 26/03/2009 | Peso: 52 kg | Tamanho: 1.79m | Série: 2-E | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 170 | Matsuda Hina | Idade: 17 anos | Data de Nascimento: 07/01/2009 | Peso: 60 kg | Tamanho: 1.84m | Série: 2-A | Classe: Paladino | Atuação: Linha de Frente
+Nº 171 | Hayashi Kamiko | Idade: 18 anos | Data de Nascimento: 13/09/2008 | Peso: 78 kg | Tamanho: 1.63m | Série: 3-A | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 172 | Okamoto Hayato | Idade: 17 anos | Data de Nascimento: 10/06/2009 | Peso: 51 kg | Tamanho: 1.84m | Série: 2-D | Classe: Paladino | Atuação: Linha de Frente
+Nº 173 | Yamaguchi Asahi | Idade: 16 anos | Data de Nascimento: 14/07/2010 | Peso: 76 kg | Tamanho: 1.85m | Série: 1-D | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 174 | Yoshida Hiroto | Idade: 18 anos | Data de Nascimento: 16/12/2008 | Peso: 79 kg | Tamanho: 1.67m | Série: 3-E | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 175 | Yamaguchi Sosuke | Idade: 17 anos | Data de Nascimento: 24/07/2009 | Peso: 53 kg | Tamanho: 1.69m | Série: 2-E | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 176 | Nakamura Kasumi | Idade: 17 anos | Data de Nascimento: 10/06/2009 | Peso: 54 kg | Tamanho: 1.58m | Série: 2-B | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 177 | Ogawa Wakana | Idade: 17 anos | Data de Nascimento: 15/10/2009 | Peso: 75 kg | Tamanho: 1.60m | Série: 2-B | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 178 | Fujii Suzu | Idade: 17 anos | Data de Nascimento: 02/12/2009 | Peso: 70 kg | Tamanho: 1.75m | Série: 2-B | Classe: Duelista | Atuação: Linha de Frente
+Nº 179 | Matsui Aika | Idade: 18 anos | Data de Nascimento: 12/09/2008 | Peso: 58 kg | Tamanho: 1.86m | Série: 3-D | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 180 | Ito Riko | Idade: 15 anos | Data de Nascimento: 05/02/2011 | Peso: 63 kg | Tamanho: 1.81m | Série: 1-E | Classe: Paladino | Atuação: Linha de Frente
+Nº 181 | Endo Mana | Idade: 18 anos | Data de Nascimento: 19/01/2008 | Peso: 57 kg | Tamanho: 1.77m | Série: 3-D | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 182 | Endo Riko | Idade: 17 anos | Data de Nascimento: 25/02/2009 | Peso: 84 kg | Tamanho: 1.60m | Série: 2-D | Classe: Paladino | Atuação: Linha de Frente
+Nº 183 | Goto Rei | Idade: 17 anos | Data de Nascimento: 21/05/2009 | Peso: 63 kg | Tamanho: 1.87m | Série: 2-C | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 184 | Ishii Hiroto | Idade: 18 anos | Data de Nascimento: 16/09/2008 | Peso: 72 kg | Tamanho: 1.85m | Série: 3-E | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 185 | Sakamoto Kenta | Idade: 18 anos | Data de Nascimento: 23/08/2008 | Peso: 61 kg | Tamanho: 1.88m | Série: 3-A | Classe: Paladino | Atuação: Linha de Frente
+Nº 186 | Abe Kaito | Idade: 18 anos | Data de Nascimento: 15/03/2008 | Peso: 76 kg | Tamanho: 1.88m | Série: 3-C | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 187 | Nakagawa Misaki | Idade: 17 anos | Data de Nascimento: 23/02/2009 | Peso: 83 kg | Tamanho: 1.73m | Série: 2-E | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 188 | Watanabe Sho | Idade: 16 anos | Data de Nascimento: 17/04/2010 | Peso: 55 kg | Tamanho: 1.88m | Série: 1-B | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 189 | Abe Taichi | Idade: 18 anos | Data de Nascimento: 26/08/2008 | Peso: 49 kg | Tamanho: 1.67m | Série: 3-B | Classe: Berserk | Atuação: Linha de Frente
+Nº 190 | Endo Sakura | Idade: 18 anos | Data de Nascimento: 26/09/2008 | Peso: 56 kg | Tamanho: 1.75m | Série: 3-C | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 191 | Matsui Wakana | Idade: 16 anos | Data de Nascimento: 23/12/2010 | Peso: 78 kg | Tamanho: 1.72m | Série: 1-C | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 192 | Yamamoto Kaito | Idade: 17 anos | Data de Nascimento: 05/06/2009 | Peso: 52 kg | Tamanho: 1.70m | Série: 2-A | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 193 | Hashimoto Misaki | Idade: 17 anos | Data de Nascimento: 05/09/2009 | Peso: 85 kg | Tamanho: 1.61m | Série: 2-E | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 194 | Ikeda Sara | Idade: 17 anos | Data de Nascimento: 28/01/2009 | Peso: 55 kg | Tamanho: 1.72m | Série: 2-B | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 195 | Watanabe Daiki | Idade: 17 anos | Data de Nascimento: 11/12/2009 | Peso: 62 kg | Tamanho: 1.66m | Série: 2-B | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 196 | Ogawa Sosuke | Idade: 16 anos | Data de Nascimento: 07/11/2010 | Peso: 83 kg | Tamanho: 1.64m | Série: 1-D | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 197 | Hayashi Natsumi | Idade: 15 anos | Data de Nascimento: 17/11/2011 | Peso: 58 kg | Tamanho: 1.75m | Série: 1-A | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 198 | Fujiwara Kazuki | Idade: 16 anos | Data de Nascimento: 27/10/2010 | Peso: 50 kg | Tamanho: 1.82m | Série: 1-C | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 199 | Silva Sora | Idade: 17 anos | Data de Nascimento: 21/10/2009 | Peso: 64 kg | Tamanho: 1.76m | Série: 2-C | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 200 | Yamamoto Kevin | Idade: 17 anos | Data de Nascimento: 16/11/2009 | Peso: 82 kg | Tamanho: 1.65m | Série: 2-E | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 201 | Yamazaki Taiga | Idade: 18 anos | Data de Nascimento: 26/11/2008 | Peso: 73 kg | Tamanho: 1.65m | Série: 3-D | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 202 | Kimura Yusei | Idade: 18 anos | Data de Nascimento: 06/08/2008 | Peso: 74 kg | Tamanho: 1.71m | Série: 3-A | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 203 | Yoshida Ryu | Idade: 16 anos | Data de Nascimento: 28/12/2010 | Peso: 68 kg | Tamanho: 1.79m | Série: 1-B | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 204 | Fujii Aika | Idade: 15 anos | Data de Nascimento: 25/06/2011 | Peso: 80 kg | Tamanho: 1.74m | Série: 1-A | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 205 | Miura Shizuka | Idade: 18 anos | Data de Nascimento: 15/04/2008 | Peso: 57 kg | Tamanho: 1.58m | Série: 3-A | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 206 | Fujita Mio | Idade: 15 anos | Data de Nascimento: 28/03/2011 | Peso: 68 kg | Tamanho: 1.86m | Série: 1-C | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 207 | Nakagawa Hayato | Idade: 17 anos | Data de Nascimento: 25/03/2009 | Peso: 79 kg | Tamanho: 1.88m | Série: 2-E | Classe: Duelista | Atuação: Linha de Frente
+Nº 208 | Fukuda Wakana | Idade: 18 anos | Data de Nascimento: 16/01/2008 | Peso: 53 kg | Tamanho: 1.86m | Série: 3-E | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 209 | Kondo Taichi | Idade: 18 anos | Data de Nascimento: 07/10/2008 | Peso: 70 kg | Tamanho: 1.57m | Série: 3-D | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 210 | Fukuda Yui | Idade: 18 anos | Data de Nascimento: 10/09/2008 | Peso: 48 kg | Tamanho: 1.83m | Série: 3-D | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 211 | Abe Kenta | Idade: 16 anos | Data de Nascimento: 25/07/2010 | Peso: 71 kg | Tamanho: 1.56m | Série: 1-E | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 212 | Aoki Hayato | Idade: 17 anos | Data de Nascimento: 12/09/2009 | Peso: 66 kg | Tamanho: 1.57m | Série: 2-B | Classe: Berserk | Atuação: Linha de Frente
+Nº 213 | Shimizu Livia | Idade: 17 anos | Data de Nascimento: 27/10/2009 | Peso: 55 kg | Tamanho: 1.59m | Série: 2-B | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 214 | Goto Hinata | Idade: 18 anos | Data de Nascimento: 26/06/2008 | Peso: 83 kg | Tamanho: 1.86m | Série: 3-E | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 215 | Fujiwara Takuya | Idade: 18 anos | Data de Nascimento: 20/09/2008 | Peso: 73 kg | Tamanho: 1.72m | Série: 3-D | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 216 | Matsuda Sota | Idade: 17 anos | Data de Nascimento: 23/06/2009 | Peso: 78 kg | Tamanho: 1.72m | Série: 2-A | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 217 | Abe Nanami | Idade: 18 anos | Data de Nascimento: 20/06/2008 | Peso: 58 kg | Tamanho: 1.68m | Série: 3-C | Classe: Berserk | Atuação: Linha de Frente
+Nº 218 | Ishii Hime | Idade: 17 anos | Data de Nascimento: 19/06/2009 | Peso: 80 kg | Tamanho: 1.82m | Série: 2-C | Classe: Berserk | Atuação: Linha de Frente
+Nº 219 | Fukuda Hime | Idade: 18 anos | Data de Nascimento: 16/01/2008 | Peso: 71 kg | Tamanho: 1.66m | Série: 3-A | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 220 | Yamamoto Wakana | Idade: 18 anos | Data de Nascimento: 26/12/2008 | Peso: 49 kg | Tamanho: 1.75m | Série: 3-D | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 221 | Okamoto Takashi | Idade: 15 anos | Data de Nascimento: 19/08/2011 | Peso: 58 kg | Tamanho: 1.72m | Série: 1-B | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 222 | Nishimura Ruka | Idade: 15 anos | Data de Nascimento: 27/11/2011 | Peso: 63 kg | Tamanho: 1.56m | Série: 1-E | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 223 | Miura Hayato | Idade: 15 anos | Data de Nascimento: 15/06/2011 | Peso: 74 kg | Tamanho: 1.60m | Série: 1-C | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 224 | Yamada Yuna | Idade: 16 anos | Data de Nascimento: 28/12/2010 | Peso: 51 kg | Tamanho: 1.78m | Série: 1-B | Classe: Berserk | Atuação: Linha de Frente
+Nº 225 | Yamada Nanami | Idade: 17 anos | Data de Nascimento: 22/08/2009 | Peso: 81 kg | Tamanho: 1.67m | Série: 2-A | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 226 | Kondo Natsumi | Idade: 16 anos | Data de Nascimento: 18/06/2010 | Peso: 64 kg | Tamanho: 1.75m | Série: 1-E | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 227 | Suzuki Livia | Idade: 18 anos | Data de Nascimento: 18/05/2008 | Peso: 62 kg | Tamanho: 1.86m | Série: 3-B | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 228 | Hasegawa Keita | Idade: 18 anos | Data de Nascimento: 23/12/2008 | Peso: 79 kg | Tamanho: 1.65m | Série: 3-B | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 229 | Maeda Livia | Idade: 16 anos | Data de Nascimento: 04/10/2010 | Peso: 82 kg | Tamanho: 1.68m | Série: 1-C | Classe: Duelista | Atuação: Linha de Frente
+Nº 230 | Fujii Ryu | Idade: 17 anos | Data de Nascimento: 10/01/2009 | Peso: 66 kg | Tamanho: 1.87m | Série: 2-E | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 231 | Fujii Riko | Idade: 17 anos | Data de Nascimento: 21/05/2009 | Peso: 78 kg | Tamanho: 1.62m | Série: 2-B | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 232 | Yamaguchi Shizuka | Idade: 15 anos | Data de Nascimento: 04/10/2011 | Peso: 85 kg | Tamanho: 1.63m | Série: 1-B | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 233 | Kobayashi Sayuri | Idade: 17 anos | Data de Nascimento: 08/11/2009 | Peso: 62 kg | Tamanho: 1.57m | Série: 2-B | Classe: Duelista | Atuação: Linha de Frente
+Nº 234 | Yoshida Yui | Idade: 18 anos | Data de Nascimento: 04/11/2008 | Peso: 56 kg | Tamanho: 1.55m | Série: 3-A | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 235 | Watanabe Yuna | Idade: 18 anos | Data de Nascimento: 21/08/2008 | Peso: 78 kg | Tamanho: 1.76m | Série: 3-C | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 236 | Ogawa Nanami | Idade: 17 anos | Data de Nascimento: 10/11/2009 | Peso: 51 kg | Tamanho: 1.85m | Série: 2-C | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 237 | Kato Ren | Idade: 18 anos | Data de Nascimento: 06/07/2008 | Peso: 59 kg | Tamanho: 1.86m | Série: 3-D | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 238 | Goto Miku | Idade: 15 anos | Data de Nascimento: 24/05/2011 | Peso: 50 kg | Tamanho: 1.55m | Série: 1-E | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 239 | Ito Genta | Idade: 18 anos | Data de Nascimento: 11/05/2008 | Peso: 77 kg | Tamanho: 1.88m | Série: 3-B | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 240 | Hashimoto Miku | Idade: 15 anos | Data de Nascimento: 28/09/2011 | Peso: 77 kg | Tamanho: 1.64m | Série: 1-B | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 241 | Miura Yuka | Idade: 18 anos | Data de Nascimento: 06/12/2008 | Peso: 77 kg | Tamanho: 1.76m | Série: 3-C | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 242 | Nakamura Daigo | Idade: 16 anos | Data de Nascimento: 26/05/2010 | Peso: 84 kg | Tamanho: 1.77m | Série: 1-E | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 243 | Nakamura Aika | Idade: 18 anos | Data de Nascimento: 27/07/2008 | Peso: 80 kg | Tamanho: 1.66m | Série: 3-D | Classe: Duelista | Atuação: Linha de Frente
+Nº 244 | Kobayashi Kouki | Idade: 17 anos | Data de Nascimento: 06/03/2009 | Peso: 78 kg | Tamanho: 1.66m | Série: 2-A | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 245 | Saito Kenta | Idade: 16 anos | Data de Nascimento: 08/08/2010 | Peso: 65 kg | Tamanho: 1.86m | Série: 1-C | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 246 | Ishikawa Daigo | Idade: 17 anos | Data de Nascimento: 09/11/2009 | Peso: 71 kg | Tamanho: 1.78m | Série: 2-A | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 247 | Kobayashi Asahi | Idade: 16 anos | Data de Nascimento: 10/03/2010 | Peso: 73 kg | Tamanho: 1.78m | Série: 1-C | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 248 | Hina Wakana | Idade: 17 anos | Data de Nascimento: 23/02/2009 | Peso: 66 kg | Tamanho: 1.67m | Série: 2-C | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 249 | Mori Sota | Idade: 17 anos | Data de Nascimento: 16/03/2009 | Peso: 77 kg | Tamanho: 1.80m | Série: 2-B | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 250 | Endo Mio | Idade: 16 anos | Data de Nascimento: 25/09/2010 | Peso: 61 kg | Tamanho: 1.80m | Série: 1-A | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 251 | Okada Sosuke | Idade: 18 anos | Data de Nascimento: 17/08/2008 | Peso: 81 kg | Tamanho: 1.78m | Série: 3-A | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 252 | Aoki Yuto | Idade: 15 anos | Data de Nascimento: 27/09/2011 | Peso: 80 kg | Tamanho: 1.62m | Série: 1-B | Classe: Berserk | Atuação: Linha de Frente
+Nº 253 | Nakagawa Chiyo | Idade: 16 anos | Data de Nascimento: 04/11/2010 | Peso: 61 kg | Tamanho: 1.79m | Série: 1-B | Classe: Duelista | Atuação: Linha de Frente
+Nº 254 | Silva Kamiko | Idade: 17 anos | Data de Nascimento: 15/01/2009 | Peso: 77 kg | Tamanho: 1.59m | Série: 2-A | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 255 | Kondo Yusei | Idade: 16 anos | Data de Nascimento: 22/05/2010 | Peso: 49 kg | Tamanho: 1.68m | Série: 1-B | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 256 | Saito Haruto | Idade: 18 anos | Data de Nascimento: 19/02/2008 | Peso: 50 kg | Tamanho: 1.69m | Série: 3-D | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 257 | Matsui Kasumi | Idade: 18 anos | Data de Nascimento: 02/02/2008 | Peso: 78 kg | Tamanho: 1.56m | Série: 3-C | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 258 | Nakamura Sota | Idade: 16 anos | Data de Nascimento: 12/07/2010 | Peso: 76 kg | Tamanho: 1.84m | Série: 1-C | Classe: Duelista | Atuação: Linha de Frente
+Nº 259 | Fujita Sosuke | Idade: 15 anos | Data de Nascimento: 21/06/2011 | Peso: 55 kg | Tamanho: 1.61m | Série: 1-A | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 260 | Goto Sayuri | Idade: 17 anos | Data de Nascimento: 05/12/2009 | Peso: 62 kg | Tamanho: 1.83m | Série: 2-E | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 261 | Hayashi Sakura | Idade: 18 anos | Data de Nascimento: 22/12/2008 | Peso: 82 kg | Tamanho: 1.69m | Série: 3-A | Classe: Duelista | Atuação: Linha de Frente
+Nº 262 | Mori Taiga | Idade: 16 anos | Data de Nascimento: 12/03/2010 | Peso: 65 kg | Tamanho: 1.61m | Série: 1-B | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 263 | Okada Yuto | Idade: 17 anos | Data de Nascimento: 02/11/2009 | Peso: 74 kg | Tamanho: 1.75m | Série: 2-B | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 264 | Suzuki Keita | Idade: 15 anos | Data de Nascimento: 04/10/2011 | Peso: 50 kg | Tamanho: 1.70m | Série: 1-D | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 265 | Hasegawa Ryo | Idade: 18 anos | Data de Nascimento: 08/12/2008 | Peso: 50 kg | Tamanho: 1.68m | Série: 3-A | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 266 | Kato Haruto | Idade: 18 anos | Data de Nascimento: 25/01/2008 | Peso: 56 kg | Tamanho: 1.72m | Série: 3-C | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 267 | Mori Rei | Idade: 17 anos | Data de Nascimento: 19/10/2009 | Peso: 68 kg | Tamanho: 1.63m | Série: 2-B | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 268 | Kobayashi Chiyo | Idade: 15 anos | Data de Nascimento: 14/05/2011 | Peso: 65 kg | Tamanho: 1.57m | Série: 1-A | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 269 | Ishii Sho | Idade: 17 anos | Data de Nascimento: 21/11/2009 | Peso: 75 kg | Tamanho: 1.73m | Série: 2-D | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 270 | Fujii Ruka | Idade: 18 anos | Data de Nascimento: 26/09/2008 | Peso: 68 kg | Tamanho: 1.78m | Série: 3-C | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 271 | Fujiwara Hime | Idade: 16 anos | Data de Nascimento: 06/09/2010 | Peso: 78 kg | Tamanho: 1.63m | Série: 1-E | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 272 | Hayashi Ryu | Idade: 16 anos | Data de Nascimento: 02/09/2010 | Peso: 74 kg | Tamanho: 1.87m | Série: 1-E | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 273 | Hashimoto Sota | Idade: 18 anos | Data de Nascimento: 13/04/2008 | Peso: 64 kg | Tamanho: 1.62m | Série: 3-E | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 274 | Silva Suzu | Idade: 17 anos | Data de Nascimento: 28/06/2009 | Peso: 53 kg | Tamanho: 1.73m | Série: 2-B | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 275 | Inoue Ryo | Idade: 16 anos | Data de Nascimento: 13/11/2010 | Peso: 50 kg | Tamanho: 1.84m | Série: 1-A | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 276 | Okada Haruto | Idade: 18 anos | Data de Nascimento: 16/04/2008 | Peso: 69 kg | Tamanho: 1.65m | Série: 3-E | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 277 | Yamada Hayato | Idade: 15 anos | Data de Nascimento: 24/08/2011 | Peso: 63 kg | Tamanho: 1.78m | Série: 1-E | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 278 | Yamada Kana | Idade: 15 anos | Data de Nascimento: 18/06/2011 | Peso: 66 kg | Tamanho: 1.68m | Série: 1-E | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 279 | Okamoto Akari | Idade: 16 anos | Data de Nascimento: 09/06/2010 | Peso: 80 kg | Tamanho: 1.84m | Série: 1-D | Classe: Duelista | Atuação: Linha de Frente
+Nº 280 | Tachibana Yui | Idade: 16 anos | Data de Nascimento: 07/06/2010 | Peso: 68 kg | Tamanho: 1.69m | Série: 1-D | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 281 | Mori Ryu | Idade: 15 anos | Data de Nascimento: 09/09/2011 | Peso: 85 kg | Tamanho: 1.74m | Série: 1-A | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 282 | Ogawa Itsuki | Idade: 17 anos | Data de Nascimento: 07/06/2009 | Peso: 62 kg | Tamanho: 1.68m | Série: 2-D | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 283 | Suzuki Miku | Idade: 16 anos | Data de Nascimento: 09/08/2010 | Peso: 79 kg | Tamanho: 1.70m | Série: 1-B | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 284 | Fujii Kazuki | Idade: 18 anos | Data de Nascimento: 05/12/2008 | Peso: 82 kg | Tamanho: 1.71m | Série: 3-E | Classe: Berserk | Atuação: Linha de Frente
+Nº 285 | Okamoto Yusei | Idade: 18 anos | Data de Nascimento: 17/01/2008 | Peso: 52 kg | Tamanho: 1.86m | Série: 3-B | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 286 | Tanaka Kenji | Idade: 17 anos | Data de Nascimento: 14/03/2009 | Peso: 62 kg | Tamanho: 1.57m | Série: 2-B | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 287 | Takahashi Koharu | Idade: 18 anos | Data de Nascimento: 12/01/2008 | Peso: 78 kg | Tamanho: 1.77m | Série: 3-E | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 288 | Saito Natsumi | Idade: 17 anos | Data de Nascimento: 18/07/2009 | Peso: 48 kg | Tamanho: 1.56m | Série: 2-D | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 289 | Yamaguchi Natsumi | Idade: 18 anos | Data de Nascimento: 10/01/2008 | Peso: 80 kg | Tamanho: 1.82m | Série: 3-B | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 290 | Ikeda Sho | Idade: 18 anos | Data de Nascimento: 04/02/2008 | Peso: 81 kg | Tamanho: 1.60m | Série: 3-E | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 291 | Nishimura Sayuri | Idade: 18 anos | Data de Nascimento: 09/06/2008 | Peso: 65 kg | Tamanho: 1.81m | Série: 3-A | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 292 | Endo Aika | Idade: 17 anos | Data de Nascimento: 15/10/2009 | Peso: 63 kg | Tamanho: 1.88m | Série: 2-D | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 293 | Hayashi Sosuke | Idade: 15 anos | Data de Nascimento: 03/07/2011 | Peso: 72 kg | Tamanho: 1.67m | Série: 1-B | Classe: Duelista | Atuação: Linha de Frente
+Nº 294 | Tanaka Daigo | Idade: 17 anos | Data de Nascimento: 23/03/2009 | Peso: 53 kg | Tamanho: 1.71m | Série: 2-D | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 295 | Aoki Kouki | Idade: 17 anos | Data de Nascimento: 17/01/2009 | Peso: 62 kg | Tamanho: 1.62m | Série: 2-D | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 296 | Aoki Yui | Idade: 18 anos | Data de Nascimento: 09/01/2008 | Peso: 52 kg | Tamanho: 1.78m | Série: 3-D | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 297 | Nakamura Rei | Idade: 18 anos | Data de Nascimento: 01/04/2008 | Peso: 85 kg | Tamanho: 1.60m | Série: 3-A | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 298 | Hasegawa Kana | Idade: 17 anos | Data de Nascimento: 03/05/2009 | Peso: 58 kg | Tamanho: 1.74m | Série: 2-D | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 299 | Fujita Kasumi | Idade: 16 anos | Data de Nascimento: 13/12/2010 | Peso: 56 kg | Tamanho: 1.81m | Série: 1-A | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 300 | Matsumoto Sosuke | Idade: 16 anos | Data de Nascimento: 02/02/2010 | Peso: 75 kg | Tamanho: 1.63m | Série: 1-D | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 301 | Hina Nanami | Idade: 17 anos | Data de Nascimento: 01/11/2009 | Peso: 65 kg | Tamanho: 1.81m | Série: 2-C | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 302 | Fukuda Takashi | Idade: 16 anos | Data de Nascimento: 18/07/2010 | Peso: 75 kg | Tamanho: 1.61m | Série: 1-C | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 303 | Kobayashi Ruka | Idade: 17 anos | Data de Nascimento: 03/10/2009 | Peso: 66 kg | Tamanho: 1.81m | Série: 2-C | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 304 | Matsui Sosuke | Idade: 17 anos | Data de Nascimento: 09/03/2009 | Peso: 72 kg | Tamanho: 1.78m | Série: 2-C | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 305 | Fujiwara Mana | Idade: 16 anos | Data de Nascimento: 12/02/2010 | Peso: 53 kg | Tamanho: 1.55m | Série: 1-A | Classe: Paladino | Atuação: Linha de Frente
+Nº 306 | Shimizu Rin | Idade: 18 anos | Data de Nascimento: 25/05/2008 | Peso: 54 kg | Tamanho: 1.59m | Série: 3-B | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 307 | Ikeda Suzu | Idade: 17 anos | Data de Nascimento: 18/09/2009 | Peso: 80 kg | Tamanho: 1.68m | Série: 2-E | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 308 | Silva Akari | Idade: 17 anos | Data de Nascimento: 18/02/2009 | Peso: 68 kg | Tamanho: 1.84m | Série: 2-D | Classe: Alquimista de Suprimentos | Atuação: Logística de Campo
+Nº 309 | Ogawa Yuna | Idade: 17 anos | Data de Nascimento: 13/02/2009 | Peso: 83 kg | Tamanho: 1.85m | Série: 2-E | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 310 | Aoki Chiyo | Idade: 18 anos | Data de Nascimento: 06/11/2008 | Peso: 72 kg | Tamanho: 1.61m | Série: 3-E | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 311 | Hayashi Shizuka | Idade: 18 anos | Data de Nascimento: 16/03/2008 | Peso: 52 kg | Tamanho: 1.61m | Série: 3-C | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 312 | Yamamoto Hime | Idade: 18 anos | Data de Nascimento: 16/02/2008 | Peso: 71 kg | Tamanho: 1.63m | Série: 3-E | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 313 | Matsumoto Miku | Idade: 15 anos | Data de Nascimento: 15/02/2011 | Peso: 56 kg | Tamanho: 1.65m | Série: 1-D | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 314 | Yoshida Ruka | Idade: 18 anos | Data de Nascimento: 26/06/2008 | Peso: 76 kg | Tamanho: 1.66m | Série: 3-E | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 315 | Okamoto Sota | Idade: 17 anos | Data de Nascimento: 10/06/2009 | Peso: 60 kg | Tamanho: 1.71m | Série: 2-D | Classe: Mago Elemental (Fogo) | Atuação: Suporte de Campo
+Nº 316 | Ogawa Mei | Idade: 17 anos | Data de Nascimento: 19/04/2009 | Peso: 68 kg | Tamanho: 1.67m | Série: 2-B | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 317 | Endo Yuto | Idade: 18 anos | Data de Nascimento: 19/04/2008 | Peso: 85 kg | Tamanho: 1.88m | Série: 3-C | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 318 | Sasaki Kevin | Idade: 16 anos | Data de Nascimento: 23/04/2010 | Peso: 76 kg | Tamanho: 1.81m | Série: 1-B | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 319 | Kimura Eita | Idade: 18 anos | Data de Nascimento: 27/07/2008 | Peso: 79 kg | Tamanho: 1.60m | Série: 3-C | Classe: Artífices / Carpinteiro | Atuação: Logística de Campo
+Nº 320 | Suzuki Tsubasa | Idade: 15 anos | Data de Nascimento: 23/07/2011 | Peso: 72 kg | Tamanho: 1.57m | Série: 1-A | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 321 | Yamazaki Aika | Idade: 17 anos | Data de Nascimento: 18/09/2009 | Peso: 74 kg | Tamanho: 1.73m | Série: 2-A | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 322 | Endo Natsumi | Idade: 17 anos | Data de Nascimento: 20/11/2009 | Peso: 53 kg | Tamanho: 1.59m | Série: 2-E | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 323 | Kobayashi Akari | Idade: 17 anos | Data de Nascimento: 06/11/2009 | Peso: 50 kg | Tamanho: 1.74m | Série: 2-E | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 324 | Sasaki Aika | Idade: 16 anos | Data de Nascimento: 26/07/2010 | Peso: 54 kg | Tamanho: 1.55m | Série: 1-D | Classe: Paladino | Atuação: Linha de Frente
+Nº 325 | Mori Kamiko | Idade: 17 anos | Data de Nascimento: 24/09/2009 | Peso: 83 kg | Tamanho: 1.74m | Série: 2-C | Classe: Berserk | Atuação: Linha de Frente
+Nº 326 | Mori Suzu | Idade: 18 anos | Data de Nascimento: 12/07/2008 | Peso: 77 kg | Tamanho: 1.80m | Série: 3-C | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 327 | Kimura Sara | Idade: 17 anos | Data de Nascimento: 05/06/2009 | Peso: 49 kg | Tamanho: 1.71m | Série: 2-E | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 328 | Yamamoto Sosuke | Idade: 15 anos | Data de Nascimento: 27/12/2011 | Peso: 57 kg | Tamanho: 1.66m | Série: 1-E | Classe: Paladino | Atuação: Linha de Frente
+Nº 329 | Kondo Keita | Idade: 16 anos | Data de Nascimento: 12/08/2010 | Peso: 54 kg | Tamanho: 1.69m | Série: 1-C | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 330 | Shimizu Rei | Idade: 15 anos | Data de Nascimento: 10/01/2011 | Peso: 55 kg | Tamanho: 1.56m | Série: 1-A | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 331 | Okamoto Genta | Idade: 17 anos | Data de Nascimento: 22/03/2009 | Peso: 63 kg | Tamanho: 1.72m | Série: 2-A | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 332 | Watanabe Yuka | Idade: 17 anos | Data de Nascimento: 18/07/2009 | Peso: 77 kg | Tamanho: 1.63m | Série: 2-D | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 333 | Nakamura Yuki | Idade: 18 anos | Data de Nascimento: 13/01/2008 | Peso: 60 kg | Tamanho: 1.70m | Série: 3-A | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 334 | Fujita Kenji | Idade: 15 anos | Data de Nascimento: 07/05/2011 | Peso: 52 kg | Tamanho: 1.74m | Série: 1-C | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 335 | Nakamura Rin | Idade: 18 anos | Data de Nascimento: 11/04/2008 | Peso: 77 kg | Tamanho: 1.59m | Série: 3-D | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 336 | Fukuda Sayuri | Idade: 18 anos | Data de Nascimento: 21/06/2008 | Peso: 72 kg | Tamanho: 1.75m | Série: 3-B | Classe: Berserk | Atuação: Linha de Frente
+Nº 337 | Miura Misaki | Idade: 18 anos | Data de Nascimento: 12/08/2008 | Peso: 59 kg | Tamanho: 1.82m | Série: 3-D | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 338 | Sasaki Sota | Idade: 16 anos | Data de Nascimento: 04/04/2010 | Peso: 67 kg | Tamanho: 1.59m | Série: 1-D | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 339 | Kimura Ryu | Idade: 16 anos | Data de Nascimento: 14/10/2010 | Peso: 56 kg | Tamanho: 1.74m | Série: 1-D | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 340 | Nakamura Mei | Idade: 15 anos | Data de Nascimento: 18/03/2011 | Peso: 79 kg | Tamanho: 1.65m | Série: 1-A | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 341 | Nakagawa Suzu | Idade: 17 anos | Data de Nascimento: 20/01/2009 | Peso: 70 kg | Tamanho: 1.86m | Série: 2-D | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 342 | Abe Hayato | Idade: 17 anos | Data de Nascimento: 27/07/2009 | Peso: 83 kg | Tamanho: 1.72m | Série: 2-A | Classe: Rastreador de Longa Distância | Atuação: Suporte de Campo
+Nº 343 | Yamamoto Mei | Idade: 17 anos | Data de Nascimento: 14/12/2009 | Peso: 76 kg | Tamanho: 1.71m | Série: 2-A | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 344 | Aoki Kevin | Idade: 18 anos | Data de Nascimento: 26/04/2008 | Peso: 66 kg | Tamanho: 1.56m | Série: 3-B | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 345 | Kato Asuka | Idade: 18 anos | Data de Nascimento: 06/08/2008 | Peso: 84 kg | Tamanho: 1.80m | Série: 3-A | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 346 | Fukuda Kamiko | Idade: 18 anos | Data de Nascimento: 04/10/2008 | Peso: 55 kg | Tamanho: 1.64m | Série: 3-C | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 347 | Endo Kasumi | Idade: 15 anos | Data de Nascimento: 25/12/2011 | Peso: 76 kg | Tamanho: 1.73m | Série: 1-E | Classe: Duelista | Atuação: Linha de Frente
+Nº 348 | Hayashi Ren | Idade: 16 anos | Data de Nascimento: 09/06/2010 | Peso: 53 kg | Tamanho: 1.69m | Série: 1-B | Classe: Mago Elemental (Gelo) | Atuação: Suporte de Campo
+Nº 349 | Hina Taichi | Idade: 17 anos | Data de Nascimento: 07/12/2009 | Peso: 85 kg | Tamanho: 1.78m | Série: 2-B | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 350 | Hasegawa Mayu | Idade: 17 anos | Data de Nascimento: 06/10/2009 | Peso: 56 kg | Tamanho: 1.81m | Série: 2-E | Classe: Assassino / Rastreador | Atuação: Linha de Frente
+Nº 351 | Yamada Yusei | Idade: 16 anos | Data de Nascimento: 18/05/2010 | Peso: 82 kg | Tamanho: 1.61m | Série: 1-B | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 352 | Ogawa Hina | Idade: 18 anos | Data de Nascimento: 19/05/2008 | Peso: 80 kg | Tamanho: 1.88m | Série: 3-B | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 353 | Tachibana Sota | Idade: 17 anos | Data de Nascimento: 25/07/2009 | Peso: 51 kg | Tamanho: 1.88m | Série: 2-D | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 354 | Okamoto Ryota | Idade: 17 anos | Data de Nascimento: 23/03/2009 | Peso: 63 kg | Tamanho: 1.60m | Série: 2-C | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 355 | Suzuki Kana | Idade: 16 anos | Data de Nascimento: 05/10/2010 | Peso: 65 kg | Tamanho: 1.76m | Série: 1-D | Classe: Duelista | Atuação: Linha de Frente
+Nº 356 | Shimizu Kaito | Idade: 17 anos | Data de Nascimento: 21/02/2009 | Peso: 73 kg | Tamanho: 1.72m | Série: 2-D | Classe: Paladino | Atuação: Linha de Frente
+Nº 357 | Kimura Hinata | Idade: 18 anos | Data de Nascimento: 15/08/2008 | Peso: 68 kg | Tamanho: 1.74m | Série: 3-E | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 358 | Silva Koharu | Idade: 16 anos | Data de Nascimento: 28/02/2010 | Peso: 82 kg | Tamanho: 1.68m | Série: 1-D | Classe: Duelista | Atuação: Linha de Frente
+Nº 359 | Yamada Miku | Idade: 17 anos | Data de Nascimento: 09/06/2009 | Peso: 66 kg | Tamanho: 1.66m | Série: 2-E | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 360 | Abe Mei | Idade: 18 anos | Data de Nascimento: 26/06/2008 | Peso: 51 kg | Tamanho: 1.57m | Série: 3-E | Classe: Invocador Espiritual | Atuação: Suporte de Campo
+Nº 361 | Kondo Kazuma | Idade: 15 anos | Data de Nascimento: 28/03/2011 | Peso: 76 kg | Tamanho: 1.70m | Série: 1-B | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 362 | Inoue Ryota | Idade: 18 anos | Data de Nascimento: 21/05/2008 | Peso: 58 kg | Tamanho: 1.84m | Série: 3-A | Classe: Curandeiro Sacerdote | Atuação: Suporte de Campo
+Nº 363 | Silva Rin | Idade: 18 anos | Data de Nascimento: 09/02/2008 | Peso: 71 kg | Tamanho: 1.77m | Série: 3-C | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 364 | Goto Wakana | Idade: 15 anos | Data de Nascimento: 14/11/2011 | Peso: 53 kg | Tamanho: 1.78m | Série: 1-C | Classe: Guerreiro de Montante | Atuação: Linha de Frente
+Nº 365 | Yamada Ayaka | Idade: 18 anos | Data de Nascimento: 03/03/2008 | Peso: 85 kg | Tamanho: 1.62m | Série: 3-C | Classe: Cozinheiro de Status | Atuação: Logística de Campo
+Nº 366 | Shimizu Daigo | Idade: 15 anos | Data de Nascimento: 23/06/2011 | Peso: 55 kg | Tamanho: 1.88m | Série: 1-B | Classe: Duelista | Atuação: Linha de Frente
+Nº 367 | Kimura Ryota | Idade: 17 anos | Data de Nascimento: 16/02/2009 | Peso: 62 kg | Tamanho: 1.68m | Série: 2-E | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 368 | Tachibana Genta | Idade: 16 anos | Data de Nascimento: 12/05/2010 | Peso: 56 kg | Tamanho: 1.68m | Série: 1-C | Classe: Tecelão de Proteção | Atuação: Logística de Campo
+Nº 369 | Okada Sota | Idade: 18 anos | Data de Nascimento: 21/11/2008 | Peso: 57 kg | Tamanho: 1.57m | Série: 3-A | Classe: Domador de Feras | Atuação: Logística de Campo
+Nº 370 | Saito Kazuki | Idade: 18 anos | Data de Nascimento: 15/06/2008 | Peso: 61 kg | Tamanho: 1.76m | Série: 3-A | Classe: Espadachim Rápido | Atuação: Linha de Frente
+Nº 371 | Yamamoto Riko | Idade: 15 anos | Data de Nascimento: 03/02/2011 | Peso: 56 kg | Tamanho: 1.80m | Série: 1-B | Classe: Barreira Rúnica | Atuação: Suporte de Campo
+Nº 372 | Matsumoto Mana | Idade: 18 anos | Data de Nascimento: 12/07/2008 | Peso: 68 kg | Tamanho: 1.81m | Série: 3-D | Classe: Geomante de Campo | Atuação: Logística de Campo
+Nº 373 | Suzuki Asuka | Idade: 18 anos | Data de Nascimento: 25/12/2008 | Peso: 49 kg | Tamanho: 1.83m | Série: 3-A | Classe: Escudeiro Pesado | Atuação: Linha de Frente
+Nº 374 | Hayashi Keita | Idade: 17 anos | Data de Nascimento: 17/10/2009 | Peso: 80 kg | Tamanho: 1.61m | Série: 2-E | Classe: Ferreiro Rúnico | Atuação: Logística de Campo
+Nº 375 | Ogawa Ryo | Idade: 15 anos | Data de Nascimento: 16/07/2011 | Peso: 55 kg | Tamanho: 1.63m | Série: 1-E | Classe: Cozinheiro de Status | Atuação: Logística de Campo
